@@ -1,0 +1,164 @@
+{
+  "book": "Words of Mormon",
+  "chapter": 1,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "My name is Mormon. I am about to give the records I have been making to my son Moroni. I have seen almost all of my people, the Nephites, be destroyed."
+    },
+    {
+      "number": 2,
+      "content": "Many hundreds of years have passed since Jesus Christ came. I am giving these records to my son. I think he will see all of our people be destroyed. But I hope God will let him live. Then he can write about our people and about Christ. Maybe this will help people someday."
+    },
+    {
+      "number": 3,
+      "content": "Let me tell you about what I have written. I made a short version of the plates of Nephi. I wrote about everything up to the time of King Benjamin, who Amaleki talked about. I looked through the records that were given to me. I found these plates that tell a short story about the prophets from Jacob to King Benjamin. They also have many of Nephi's words."
+    },
+    {
+      "number": 4,
+      "content": "I like what is on these plates because they tell about Jesus Christ coming. My fathers knew that many of these prophecies have come true. I also know that everything that has been prophesied about us up to now has happened. And everything that will happen in the future must surely come true."
+    },
+    {
+      "number": 5,
+      "content": "So I chose these things to finish my record. The rest of my record will come from the plates of Nephi. I cannot write even one hundredth of all the things about my people."
+    },
+    {
+      "number": 6,
+      "content": "I will take these plates that have prophecies and revelations. I will put them with the rest of my record. They are very important to me, and I know they will be important to my brothers too."
+    },
+    {
+      "number": 7,
+      "content": "I am doing this for a wise reason. The Spirit of the Lord in me whispers that this is right. I do not know everything, but the Lord knows all things that will happen. So He helps me do what He wants."
+    },
+    {
+      "number": 8,
+      "content": "I pray to God for my brothers. I hope they will learn about God again and about Jesus Christ's power to save them. I hope they will become a good people again."
+    },
+    {
+      "number": 9,
+      "content": "Now I, Mormon, will continue to finish my record. I will take it from the plates of Nephi. I will write according to the knowledge and understanding that God has given me."
+    },
+    {
+      "number": 10,
+      "content": "After Amaleki gave these plates to King Benjamin, he took them and put them with the other plates. These other plates had records that the kings had passed down from one generation to the next, all the way to King Benjamin's time."
+    },
+    {
+      "number": 11,
+      "content": "These plates were passed down from King Benjamin through each generation until they came to me. I, Mormon, pray to God that they will be kept safe from now on. I know they will be protected because great things are written on them. My people and their brothers will be judged by what is written on these plates on the great and last day, according to God's word."
+    },
+    {
+      "number": 12,
+      "content": "Now, about King Benjamin: There was some fighting and arguing among his own people."
+    },
+    {
+      "number": 13,
+      "content": "The armies of the Lamanites came down from the land of Nephi to fight his people. But King Benjamin gathered his armies together and fought against them. He fought with his own strength, using the sword of Laban."
+    },
+    {
+      "number": 14,
+      "content": "With the Lord's strength, they fought their enemies until they had killed many thousands of Lamanites. They kept fighting the Lamanites until they had pushed them out of all their lands."
+    },
+    {
+      "number": 15,
+      "content": "After there had been false Christs, their mouths were shut and they were punished for their crimes."
+    },
+    {
+      "number": 16,
+      "content": "After there had been false prophets and false preachers and teachers among the people, and all of these were punished for their crimes. After there had been much fighting and many people left to join the Lamanites, King Benjamin got help from the holy prophets among his people."
+    },
+    {
+      "number": 17,
+      "content": "King Benjamin was a holy man who ruled his people in the right way. There were many holy men in the land. They spoke God's word with power and authority. They had to speak strongly because the people were stubborn."
+    },
+    {
+      "number": 18,
+      "content": "With the help of these holy men, King Benjamin worked with all his strength and all his heart. The prophets helped too. Together they brought peace to the land again."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Mormon Gives Records to His Son",
+        "level": 4,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "text": "Mormon Explains What He Wrote",
+        "level": 4,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "text": "Mormon's Purpose and Prayer",
+        "level": 4,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "The Sacred Records Are Protected",
+        "level": 4,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "text": "King Benjamin Fights His Enemies",
+        "level": 4,
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "text": "False Teachers Are Stopped",
+        "level": 4,
+        "sortOrder": 6
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "text": "Peace Comes to the Land",
+        "level": 4,
+        "sortOrder": 7
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}

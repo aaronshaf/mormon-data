@@ -1,0 +1,153 @@
+{
+  "book": "1 Nephi",
+  "chapter": 10,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, will now write on these plates about my actions, my leadership, and my ministry. To continue my story, I must tell you some things about my father and my brothers."
+    },
+    {
+      "number": 2,
+      "content": "After my father finished telling us about his dream and encouraging us to work hard, he spoke to us about the Jews."
+    },
+    {
+      "number": 3,
+      "content": "He said that after Jerusalem was destroyed and many people were taken as prisoners to Babylon, the Lord would bring them back at the right time. After being freed, they would own their land again."
+    },
+    {
+      "number": 4,
+      "content": "Six hundred years from when my father left Jerusalem, the Lord God would send a prophet among the Jews. This would be a Messiah, or in other words, a Savior of the world."
+    },
+    {
+      "number": 5,
+      "content": "He also spoke about the prophets. Many prophets had told about this Messiah, this Redeemer of the world."
+    },
+    {
+      "number": 6,
+      "content": "So all people were lost and fallen. They would always be lost unless they trusted in this Redeemer."
+    },
+    {
+      "number": 7,
+      "content": "He also spoke about a prophet who would come before the Messiah to prepare the way of the Lord."
+    },
+    {
+      "number": 8,
+      "content": "This prophet would go out and call in the wilderness: 'Prepare the way of the Lord and make his paths straight. Someone stands among you whom you don't know. He is mightier than I am. I am not good enough to untie his shoes.' My father spoke a lot about this."
+    },
+    {
+      "number": 9,
+      "content": "My father said he would baptize in Bethabara, beyond the Jordan River. He also said he would baptize with water, and that he would baptize the Messiah with water."
+    },
+    {
+      "number": 10,
+      "content": "After he had baptized the Messiah with water, he would see and tell others that he had baptized the Lamb of God, who would take away the sins of the world."
+    },
+    {
+      "number": 11,
+      "content": "After my father had spoken these words, he spoke to my brothers about the Gospel that would be preached to the Jews. He also spoke about the Jews losing their belief. After they killed the Messiah who would come, and after he was killed, he would rise from the dead. He would show himself through the Holy Ghost to the Gentiles."
+    },
+    {
+      "number": 12,
+      "content": "My father spoke much about the Gentiles and about the House of Israel. He said they would be like an olive tree whose branches would be broken off and scattered all over the earth."
+    },
+    {
+      "number": 13,
+      "content": "So he said we must be led together to the promised land. This would fulfill the Lord's word that we would be scattered all over the earth."
+    },
+    {
+      "number": 14,
+      "content": "After the House of Israel is scattered, they will be gathered together again. After the Gentiles receive the full Gospel, the natural branches of the olive tree - the remaining people of the House of Israel - will be grafted back in. They will come to know the true Messiah, their Lord and Redeemer."
+    },
+    {
+      "number": 15,
+      "content": "This is how my father prophesied and spoke to my brothers. He said many more things that I don't write in this book. I have written what I needed to in my other book."
+    },
+    {
+      "number": 16,
+      "content": "All these things I have spoken about happened while my father lived in a tent in the valley of Lemuel."
+    },
+    {
+      "number": 17,
+      "content": "After I heard all my father's words about what he saw in a vision and what he spoke by the power of the Holy Ghost, I wanted to know more. He received this power by having faith in the Son of God. The Son of God was the Messiah who would come."
+    },
+    {
+      "number": 18,
+      "content": "I wanted to see, hear, and know these things by the power of the Holy Ghost. This is God's gift to all who carefully seek him, both in old times and when he shows himself to people. He is the same yesterday, today, and forever. The way has been prepared since the world began, if people repent and come to him."
+    },
+    {
+      "number": 19,
+      "content": "Those who carefully seek will find. God's mysteries will be shown to them by the power of the Holy Ghost. This happens now just like it did in old times, and it will happen in times to come. The Lord's path is one eternal circle."
+    },
+    {
+      "number": 20,
+      "content": "So remember, O man, you will be judged for everything you do."
+    },
+    {
+      "number": 21,
+      "content": "So if you have chosen to do wrong during your test on earth, you will be found unclean before God's judgment seat. Nothing unclean can live with God. So you must be sent away forever."
+    },
+    {
+      "number": 22,
+      "content": "The Holy Ghost gives me authority to speak these things and not deny them."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Lehi's Prophecies",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "The Coming Messiah",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "text": "John the Baptist",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "text": "Scattering and Gathering",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "text": "Nephi Seeks Understanding",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "text": "A Warning About Judgment",
+        "level": 3,
+        "sortOrder": 1
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "sortOrder": 1
+      }
+    ]
+  }
+}

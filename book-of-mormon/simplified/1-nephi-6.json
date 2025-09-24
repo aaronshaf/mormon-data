@@ -1,0 +1,49 @@
+{
+  "book": "1 Nephi",
+  "chapter": 6,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, will not write my family history in this part of my record. I will never write it on these plates I am writing. My father already wrote it in his record. So I don't need to write it in this book."
+    },
+    {
+      "number": 2,
+      "content": "It's enough for me to say that we come from Joseph's family."
+    },
+    {
+      "number": 3,
+      "content": "It doesn't matter to me to tell everything about my father. I can't write it all on these plates because I need space. I want to write about God's things."
+    },
+    {
+      "number": 4,
+      "content": "My complete goal is to help people come to the God of Abraham, Isaac, and Jacob, and be saved."
+    },
+    {
+      "number": 5,
+      "content": "So I don't write things that make the world happy. Instead, I write things that make God happy and that help people who follow God."
+    },
+    {
+      "number": 6,
+      "content": "So I will tell my children not to use these plates for things that aren't helpful to people."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Nephi's Writing Purpose",
+        "level": 3,
+        "sortOrder": 1
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "book": "Jarom",
+  "chapter": 1,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I am Jarom. I am writing a few words like my father Enos told me to do. This will help us keep track of our family history."
+    },
+    {
+      "number": 2,
+      "content": "These metal plates are small. I am writing these things to help our brothers, the Lamanites. So I must write only a little. I will not write about my prophecies or revelations. What more could I write than my fathers have already written? They have already explained God's plan of salvation. Yes, and that is enough for me."
+    },
+    {
+      "number": 3,
+      "content": "Much work needs to be done among these people because their hearts are hard. Their ears do not listen. Their minds are blind. Their necks are stiff. But God is very merciful to them and has not yet destroyed them from the land."
+    },
+    {
+      "number": 4,
+      "content": "Many among us receive revelations because not all of them are stubborn. Those who are not stubborn and have faith can talk with the Holy Spirit. The Spirit shows people things based on how much faith they have."
+    },
+    {
+      "number": 5,
+      "content": "Two hundred years had passed, and the Nephite people had grown strong in the land. They followed the law of Moses and kept the Sabbath day holy for the Lord. They did not dishonor God or speak badly about him. The laws of the land were very strict."
+    },
+    {
+      "number": 6,
+      "content": "Both groups were scattered across much of the land. The Lamanites were much more numerous than the Nephites. They loved to kill people and would drink the blood of wild animals."
+    },
+    {
+      "number": 7,
+      "content": "They came against us Nephites to fight many times. But our kings and leaders were strong men who believed in the Lord. They taught the people the Lords ways. So we fought off the Lamanites, drove them out of our lands, and began to make our cities stronger."
+    },
+    {
+      "number": 8,
+      "content": "We grew in numbers and spread across the land. We became very rich in gold, silver, and precious things. We were skilled at working with wood, building houses, and making machines. We also worked with iron, copper, brass, and steel. We made all kinds of tools to farm the ground and weapons for war. We made sharp arrows, quivers to hold them, darts, spears, and everything needed for war."
+    },
+    {
+      "number": 9,
+      "content": "Because we were ready to fight the Lamanites, they could not win against us. The Lords promise came true. He had told our fathers, \"If you keep my commandments, you will succeed in this land.\""
+    },
+    {
+      "number": 10,
+      "content": "The Lord's prophets warned the Nephite people according to God's word. They said if the people did not keep the commandments and did wrong things, they would be destroyed from the land."
+    },
+    {
+      "number": 11,
+      "content": "So the prophets, priests, and teachers worked hard. They patiently urged the people to work hard for God. They taught the law of Moses and explained why it was given. They encouraged people to look forward to the Messiah and believe in him as if he had already come. This is how they taught them."
+    },
+    {
+      "number": 12,
+      "content": "By doing this, they kept the people from being destroyed. They touched people's hearts with God's word and constantly stirred them up to repent."
+    },
+    {
+      "number": 13,
+      "content": "Two hundred thirty-eight years had passed. Much of this time was filled with wars, fighting, and disagreements."
+    },
+    {
+      "number": 14,
+      "content": "I will not write more because the plates are small. But my brothers, you can read the other plates of Nephi. On those plates, the records of our wars are written according to what the kings wrote or had others write for them."
+    },
+    {
+      "number": 15,
+      "content": "I give these plates to my son Omni so they can be kept according to my fathers commandments."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Jarom Writes on the Plates",
+        "level": 4,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "text": "The People Need Help",
+        "level": 4,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "The Nephites Grow Strong",
+        "level": 4,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "Prophets Warn the People",
+        "level": 4,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "text": "Jarom Finishes Writing",
+        "level": 4,
+        "sortOrder": 5
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}

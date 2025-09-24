@@ -1,0 +1,161 @@
+{
+  "book": "1 Nephi",
+  "chapter": 20,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Listen to this, house of Jacob. You are called by the name Israel. You came from the land of Judah. You make promises using the Lord's name and talk about the God of Israel. But you don't make promises in truth or do right."
+    },
+    {
+      "number": 2,
+      "content": "You call yourselves people of the holy city. But you don't depend on the God of Israel. He is the Lord of armies. The Lord of armies is his name."
+    },
+    {
+      "number": 3,
+      "content": "I told you about things that would happen before. They came out of my mouth and I showed them. I showed them suddenly."
+    },
+    {
+      "number": 4,
+      "content": "I did this because I knew you are stubborn. Your neck is like iron and your forehead is like brass."
+    },
+    {
+      "number": 5,
+      "content": "From the beginning I told you these things. Before they happened I showed them to you. I did this so you wouldn't say: \"My idol did these things. My carved statue or metal statue commanded them.\""
+    },
+    {
+      "number": 6,
+      "content": "You have seen and heard all this. Won't you tell others about it? I have shown you new things from this time. They are hidden things you didn't know."
+    },
+    {
+      "number": 7,
+      "content": "They are created now, not from the beginning. Before you heard them, they were told to you. This was so you wouldn't say: \"I already knew them.\""
+    },
+    {
+      "number": 8,
+      "content": "You didn't hear and you didn't know. From that time your ear was not open. I knew you would be very unfaithful. You were called a sinner from birth."
+    },
+    {
+      "number": 9,
+      "content": "But for my name's sake I will hold back my anger. For my praise I will control myself so I don't destroy you."
+    },
+    {
+      "number": 10,
+      "content": "I have refined you like metal. I have chosen you in the furnace of trouble."
+    },
+    {
+      "number": 11,
+      "content": "For my own sake I will do this. I will not let my name be ruined. I will not give my glory to another."
+    },
+    {
+      "number": 12,
+      "content": "Listen to me, Jacob and Israel, my chosen people. I am he. I am the first and I am also the last."
+    },
+    {
+      "number": 13,
+      "content": "My hand made the foundation of the earth. My right hand stretched out the heavens. When I call to them, they stand up together."
+    },
+    {
+      "number": 14,
+      "content": "All of you, come together and listen. Which of them has told you these things? The Lord has loved him. He will keep his word that he spoke through them. He will do what he wants to Babylon. His power will come on the Chaldeans."
+    },
+    {
+      "number": 15,
+      "content": "The Lord says: I the Lord have spoken. I have called him to tell what I have brought. He will make his way successful."
+    },
+    {
+      "number": 16,
+      "content": "Come close to me. I have not spoken in secret from the beginning. From the time it was announced, I have spoken. The Lord God and his Spirit have sent me."
+    },
+    {
+      "number": 17,
+      "content": "The Lord, your Savior, the Holy One of Israel says: I have sent him, the Lord your God. He teaches you what is helpful. He leads you the way you should go."
+    },
+    {
+      "number": 18,
+      "content": "If you had listened to my commands! Then your peace would have been like a river. Your righteousness would have been like the waves of the sea."
+    },
+    {
+      "number": 19,
+      "content": "Your children would have been like the sand. Your descendants would have been like the gravel. Your name would not have been cut off or destroyed."
+    },
+    {
+      "number": 20,
+      "content": "Go out of Babylon. Run away from the Chaldeans. Tell this with singing voices. Announce this to the end of the earth. Say: \"The Lord has saved his servant Jacob.\""
+    },
+    {
+      "number": 21,
+      "content": "They were not thirsty. He led them through the deserts. He made water flow out of the rock for them. He split the rock and water poured out."
+    },
+    {
+      "number": 22,
+      "content": "Even though he has done all this and more, the Lord says there is no peace for wicked people."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "God Speaks to Israel",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "text": "God's Mercy Despite Their Sin",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "text": "The First and the Last",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "text": "If Only You Had Listened",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "text": "Leave Babylon",
+        "level": 3,
+        "sortOrder": 1
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 22,
+        "position": "before_verse",
+        "sortOrder": 1
+      }
+    ]
+  }
+}

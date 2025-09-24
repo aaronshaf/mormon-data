@@ -1,0 +1,176 @@
+{
+  "book": "1 Nephi",
+  "chapter": 2,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "The Lord spoke to my father in a dream. He said to him: 'God blesses you, Lehi, because of the good things you have done. You have been faithful and told this people what I commanded you to tell them. But now they want to kill you.'"
+    },
+    {
+      "number": 2,
+      "content": "The Lord told my father in a dream to take his family and leave for the wilderness."
+    },
+    {
+      "number": 3,
+      "content": "He obeyed the Lord's word. So he did what the Lord told him to do."
+    },
+    {
+      "number": 4,
+      "content": "He left for the wilderness. He left his house, his land, his gold, his silver, and his valuable things. He only took his family, food, and tents with him."
+    },
+    {
+      "number": 5,
+      "content": "He traveled near the Red Sea. He went through the wilderness with his family. His family was my mother Sariah and my older brothers Laman, Lemuel, and Sam."
+    },
+    {
+      "number": 6,
+      "content": "After three days of travel in the wilderness, he set up his tent in a valley by a river."
+    },
+    {
+      "number": 7,
+      "content": "He built an altar out of stones. He made an offering to the Lord and gave thanks to the Lord our God."
+    },
+    {
+      "number": 8,
+      "content": "He named the river Laman. It flowed into the Red Sea. The valley was near where the river met the sea."
+    },
+    {
+      "number": 9,
+      "content": "When my father saw that the river flowed into the Red Sea, he spoke to Laman. He said: 'I wish you could be like this river, always flowing toward what is right.'"
+    },
+    {
+      "number": 10,
+      "content": "He also spoke to Lemuel: 'I wish you could be like this valley. Be firm, steady, and strong in keeping God's commandments.'"
+    },
+    {
+      "number": 11,
+      "content": "He said this because Laman and Lemuel were stubborn. They complained about many things their father did. They said he was a dreamer who led them away from Jerusalem. They were upset about leaving their land, gold, silver, and valuable things to die in the wilderness. They said he did this because of foolish ideas in his head."
+    },
+    {
+      "number": 12,
+      "content": "Laman and Lemuel were the oldest sons, and they complained against their father. They complained because they did not understand how God works."
+    },
+    {
+      "number": 13,
+      "content": "They did not believe that Jerusalem could be destroyed like the prophets said. They were like the Jews in Jerusalem who wanted to kill my father."
+    },
+    {
+      "number": 14,
+      "content": "My father spoke to them in the valley of Lemuel with great power. He was filled with the Spirit. His words made them shake with fear. He confused them so much that they did not dare speak against him. So they did what he told them to do."
+    },
+    {
+      "number": 15,
+      "content": "My father lived in a tent."
+    },
+    {
+      "number": 16,
+      "content": "I was very young but tall for my age. I wanted to know God's secrets. So I prayed to the Lord. He came to me and softened my heart. I believed everything my father said. I did not rebel against him like my brothers did."
+    },
+    {
+      "number": 17,
+      "content": "I told Sam about the things the Lord had shown me through His Holy Spirit. He believed what I said."
+    },
+    {
+      "number": 18,
+      "content": "But Laman and Lemuel would not listen to me. I was sad because their hearts were hard. So I prayed to the Lord for them."
+    },
+    {
+      "number": 19,
+      "content": "Then the Lord spoke to me and said: 'God blesses you, Nephi, because you have faith. You have looked for me with all your heart and with humility.'"
+    },
+    {
+      "number": 20,
+      "content": "If you keep my commandments, you will be successful. You will be led to a promised land. It is a land I have prepared for you. It is better than any other land."
+    },
+    {
+      "number": 21,
+      "content": "If your brothers rebel against you, they will be cut off from the Lord's presence."
+    },
+    {
+      "number": 22,
+      "content": "If you keep my commandments, you will become a ruler and teacher over your brothers."
+    },
+    {
+      "number": 23,
+      "content": "When they rebel against me, I will curse them with a terrible curse. They will have no power over your children unless your children also rebel against me."
+    },
+    {
+      "number": 24,
+      "content": "If your children rebel against me, then your brothers' descendants will trouble your descendants. This will help them remember me."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "God Warns Lehi to Leave",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "The Journey Begins",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "text": "Lehi's Counsel to His Sons",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "text": "The Brothers Complain",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "text": "Nephi Seeks the Lord",
+        "level": 3,
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "text": "God's Promises to Nephi",
+        "level": 3,
+        "sortOrder": 6
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "sortOrder": 1
+      }
+    ]
+  }
+}
