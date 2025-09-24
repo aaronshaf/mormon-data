@@ -1,0 +1,160 @@
+{
+  "book": "1 Nephi",
+  "chapter": 1,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, was born to good parents. They taught me many things my father knew. I have had troubles in my life. But the Lord has always helped me. I know about God's goodness and secrets. So I am writing about what happened in my life."
+    },
+    {
+      "number": 2,
+      "content": "I am writing in my father's language. It has Jewish learning and Egyptian writing."
+    },
+    {
+      "number": 3,
+      "content": "I know that what I write is true. I am writing it with my own hands. I am writing what I know."
+    },
+    {
+      "number": 4,
+      "content": "When King Zedekiah started ruling Judah, my father Lehi lived in Jerusalem. That same year many prophets came. They told the people they must repent or Jerusalem would be destroyed."
+    },
+    {
+      "number": 5,
+      "content": "So my father Lehi prayed to the Lord with all his heart for his people."
+    },
+    {
+      "number": 6,
+      "content": "As he prayed to the Lord, a pillar of fire came and rested on a rock in front of him. He saw and heard many things. What he saw and heard made him shake with fear."
+    },
+    {
+      "number": 7,
+      "content": "Then he went back to his house in Jerusalem. He fell on his bed because he was overwhelmed by the Spirit and what he had seen."
+    },
+    {
+      "number": 8,
+      "content": "Because he was filled with the Spirit, he had a vision. He saw Heaven open up. He saw God sitting on His throne with countless angels around Him singing and praising God."
+    },
+    {
+      "number": 9,
+      "content": "Then he saw someone coming down from Heaven. This person was brighter than the sun at noon."
+    },
+    {
+      "number": 10,
+      "content": "He also saw twelve others following him. They were brighter than the stars in the sky."
+    },
+    {
+      "number": 11,
+      "content": "They came down to the earth. The first one came to my father and gave him a book. He told him to read it."
+    },
+    {
+      "number": 12,
+      "content": "As he read, he was filled with the Spirit of the Lord."
+    },
+    {
+      "number": 13,
+      "content": "He read: 'Trouble will come to Jerusalem! I have seen their sins.' My father read many things about Jerusalem. It would be destroyed. Many people would die in war. Many would be taken prisoner to Babylon."
+    },
+    {
+      "number": 14,
+      "content": "When my father read and saw many great and wonderful things, he cried out to the Lord: 'Great and wonderful are your works, O Lord God Almighty! Your throne is high in Heaven. Your power, goodness, and mercy are over all people on earth. Because you are merciful, you will not let those who come to you be destroyed!'"
+    },
+    {
+      "number": 15,
+      "content": "This is how my father praised his God. His soul was full of joy. His whole heart was filled with happiness because of what he had seen. The Lord had shown him these things."
+    },
+    {
+      "number": 16,
+      "content": "I will not write everything my father wrote. He wrote many things he saw in visions and dreams. He also wrote many prophecies and things he said to his children. I will not write all of these things."
+    },
+    {
+      "number": 17,
+      "content": "But I will write about what happened in my life. I am making a short version of my father's record on plates I made with my own hands. After I finish the short version of my father's record, I will write about my own life."
+    },
+    {
+      "number": 18,
+      "content": "I want you to know that after the Lord showed my father Lehi these wonderful things about Jerusalem being destroyed, he went out to the people. He began to prophesy and tell them about what he had seen and heard."
+    },
+    {
+      "number": 19,
+      "content": "The Jews made fun of him because of what he told them. He told them the truth about their sins and evil things they did. He told them that what he saw, heard, and read in the book clearly showed that a Savior was coming to save the world."
+    },
+    {
+      "number": 20,
+      "content": "When the Jews heard these things, they got angry with him. They acted like they did with the old prophets who they threw out, threw stones at, and killed. They wanted to kill him too. But I will show you that the Lord's kind mercy protects all those He has chosen. Because of their faith, He makes them strong enough to be saved."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Nephi Introduces Himself",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "Prophets Warn Jerusalem",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "Lehi's Vision",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "text": "The Book from Heaven",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "text": "Nephi's Record",
+        "level": 3,
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "text": "Lehi Preaches to the People",
+        "level": 3,
+        "sortOrder": 6
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "sortOrder": 1
+      }
+    ]
+  }
+}
