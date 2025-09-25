@@ -1,0 +1,173 @@
+{
+  "book": "2 Nephi",
+  "chapter": 13,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "The Lord of all armies will take everything away from Jerusalem and Judah. He will take away all their food and water."
+    },
+    {
+      "number": 2,
+      "content": "He will take away strong men and soldiers. He will take away judges and prophets. He will take away wise men and old leaders."
+    },
+    {
+      "number": 3,
+      "content": "He will take away army captains and important men. He will take away advisors, skilled workers, and good speakers."
+    },
+    {
+      "number": 4,
+      "content": "I will give them children to be their leaders. Babies will rule over them."
+    },
+    {
+      "number": 5,
+      "content": "People will hurt each other. Everyone will hurt their neighbor. Children will be rude to old people. Bad people will act proud against good people."
+    },
+    {
+      "number": 6,
+      "content": "A man will grab his brother in his father's house. He will say: \"You have clothes. Be our leader! Don't let this broken city be your problem.\""
+    },
+    {
+      "number": 7,
+      "content": "That day the brother will say: \"I cannot fix things. I have no food or clothes in my house. Don't make me a leader of the people.\""
+    },
+    {
+      "number": 8,
+      "content": "Jerusalem is destroyed, and Judah has fallen. Their words and actions have been against the Lord. They have made his glory angry."
+    },
+    {
+      "number": 9,
+      "content": "Their faces show their sin. They show their sin like Sodom did. They cannot hide it. How terrible for them! They have brought evil on themselves."
+    },
+    {
+      "number": 10,
+      "content": "Tell good people that things will go well for them. They will get the good results of what they do."
+    },
+    {
+      "number": 11,
+      "content": "How terrible for bad people! They will die. What their hands have done will happen to them."
+    },
+    {
+      "number": 12,
+      "content": "My people, children hurt them and women rule over them. My people, your leaders make you go the wrong way. They destroy your paths."
+    },
+    {
+      "number": 13,
+      "content": "The Lord stands up to argue his case. He stands to judge the people."
+    },
+    {
+      "number": 14,
+      "content": "The Lord will judge the old leaders and rulers of his people. \"You have destroyed the vineyard. Things you stole from the poor are in your houses.\""
+    },
+    {
+      "number": 15,
+      "content": "\"What are you doing? You beat my people to pieces. You crush the faces of the poor,\" says the Lord God of armies."
+    },
+    {
+      "number": 16,
+      "content": "The Lord also says: \"The daughters of Zion are proud. They walk with their necks stretched out and eyes that flirt. They walk with tiny steps and make their ankles jingle.\""
+    },
+    {
+      "number": 17,
+      "content": "So the Lord will put sores on the heads of Zion's daughters. The Lord will make them lose their hair."
+    },
+    {
+      "number": 18,
+      "content": "In that day the Lord will take away their beautiful ankle chains, headbands, and moon-shaped necklaces."
+    },
+    {
+      "number": 19,
+      "content": "He will take away their chains, bracelets, and veils."
+    },
+    {
+      "number": 20,
+      "content": "He will take away their hats, ankle jewelry, sashes, perfume bottles, and lucky charms."
+    },
+    {
+      "number": 21,
+      "content": "He will take away their rings and nose rings."
+    },
+    {
+      "number": 22,
+      "content": "He will take away their fancy clothes, capes, shawls, and purses."
+    },
+    {
+      "number": 23,
+      "content": "He will take away their mirrors, fine clothes, turbans, and veils."
+    },
+    {
+      "number": 24,
+      "content": "Instead of sweet perfume, there will be a bad smell. Instead of a belt, there will be a rope. Instead of styled hair, they will be bald. Instead of fancy clothes, they will wear rough cloth. Instead of beauty, there will be burns."
+    },
+    {
+      "number": 25,
+      "content": "Your men will die by the sword. Your strong men will die in war."
+    },
+    {
+      "number": 26,
+      "content": "The city gates will cry and be sad. The city will be empty and sit on the ground."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "God Takes Away Jerusalem's Leaders",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "text": "Jerusalem Falls Because of Sin",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "text": "Proud Women Will Be Humbled",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "sortOrder": 6
+      },
+      {
+        "verseNumber": 24,
+        "position": "before_verse",
+        "sortOrder": 7
+      }
+    ]
+  }
+}

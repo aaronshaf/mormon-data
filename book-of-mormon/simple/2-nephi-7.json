@@ -1,0 +1,93 @@
+{
+  "book": "2 Nephi",
+  "chapter": 7,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "The Lord says: Did I send you away? Did I leave you forever? The Lord says: Where is the divorce paper for your mother? Which person did I sell you to? Who did I sell you to? You sold yourselves because of your sins. Your mother was sent away because of your bad choices."
+    },
+    {
+      "number": 2,
+      "content": "So when I came, no one was there. When I called, no one answered. House of Israel, is my hand too short to save you? Don't I have power to rescue you? I can dry up the sea with my words. I make rivers into deserts. Their fish stink because the water is dried up. They die of thirst."
+    },
+    {
+      "number": 3,
+      "content": "I make the sky dark. I cover it with rough cloth."
+    },
+    {
+      "number": 4,
+      "content": "The Lord God gave me the words of someone wise. I know how to speak to you when you are tired, House of Israel. He wakes me every morning. He wakes my ear to listen like a student."
+    },
+    {
+      "number": 5,
+      "content": "The Lord God opened my ear. I didn't disobey. I didn't turn away."
+    },
+    {
+      "number": 6,
+      "content": "I let people hit my back. I let them pull out my hair. I didn't hide my face when they made fun of me and spit on me."
+    },
+    {
+      "number": 7,
+      "content": "The Lord God will help me. So I won't be confused. I made my face strong like a hard rock. I know I won't be ashamed."
+    },
+    {
+      "number": 8,
+      "content": "The Lord is near. He says I'm right. Who wants to fight me? Let's stand together. Who is against me? Let them come close. I will defeat them with the strength of my words."
+    },
+    {
+      "number": 9,
+      "content": "The Lord God will help me. Everyone who says I'm wrong will get old like clothes. Moths will eat them."
+    },
+    {
+      "number": 10,
+      "content": "Who among you respects the Lord? Who obeys his servant's voice? Who walks in the dark without any light?"
+    },
+    {
+      "number": 11,
+      "content": "All of you who start fires and make sparks around yourselves: Walk in the light of your own fire. Walk in the sparks you made. This is what you'll get from me: You will lie down in sadness."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "The Lord Did Not Leave You",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "The Lord's Servant Speaks",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "A Warning About Making Your Own Light",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      }
+    ]
+  }
+}

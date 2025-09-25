@@ -1,0 +1,166 @@
+{
+  "book": "2 Nephi",
+  "chapter": 12,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Isaiah, the son of Amoz, saw these words about Judah and Jerusalem:"
+    },
+    {
+      "number": 2,
+      "content": "In the last days, the Lord's temple will be built on a mountain. It will be higher than all the hills. All nations will come to it."
+    },
+    {
+      "number": 3,
+      "content": "Many people will say: \"Come! Let's go up to the Lord's mountain. Let's go to the temple of Jacob's God. He will teach us his ways. Then we will walk in his paths.\" God's law will come from Zion. The Lord's word will come from Jerusalem."
+    },
+    {
+      "number": 4,
+      "content": "He will judge the nations. He will correct many people. They will turn their swords into farm tools. They will turn their spears into cutting tools. Nations won't fight each other anymore. They won't learn about war anymore."
+    },
+    {
+      "number": 5,
+      "content": "People of Jacob, come! Let's walk in the Lord's light. Come, because you have all gone the wrong way."
+    },
+    {
+      "number": 6,
+      "content": "Lord, you have left your people, the family of Jacob. They follow eastern ways. They listen to fortune-tellers like the Philistines do. They make friends with strangers."
+    },
+    {
+      "number": 7,
+      "content": "Their land is full of silver and gold. Their treasures have no end. Their land is full of horses. Their war wagons have no end."
+    },
+    {
+      "number": 8,
+      "content": "Their land is full of idols. They worship things their own hands made. They worship things their own fingers made."
+    },
+    {
+      "number": 9,
+      "content": "Common people bow down to idols. Important people won't humble themselves. So don't forgive them."
+    },
+    {
+      "number": 10,
+      "content": "You wicked people, go into the rocks! Hide in the dirt! The Lord's power will destroy you. His glory will destroy you."
+    },
+    {
+      "number": 11,
+      "content": "Then proud people will be made humble. Stuck-up people will bow down. Only the Lord will be honored on that day."
+    },
+    {
+      "number": 12,
+      "content": "The Lord's day is coming soon to all nations. It will come to every proud person. It will come to everyone who thinks they're great. They will be brought down."
+    },
+    {
+      "number": 13,
+      "content": "The Lord's day will come upon all the tall cedar trees of Lebanon. It will come upon all the oak trees of Bashan."
+    },
+    {
+      "number": 14,
+      "content": "It will come upon all the high mountains and all the hills. It will come upon all the proud nations and all the people."
+    },
+    {
+      "number": 15,
+      "content": "It will come upon every high tower and every strong wall."
+    },
+    {
+      "number": 16,
+      "content": "It will come upon all the ships of the sea. It will come upon all the ships of Tarshish and all beautiful things."
+    },
+    {
+      "number": 17,
+      "content": "People's pride will be brought down. Their stuck-up attitudes will be made low. Only the Lord will be honored on that day."
+    },
+    {
+      "number": 18,
+      "content": "He will completely destroy all idols."
+    },
+    {
+      "number": 19,
+      "content": "People will go into holes in the rocks. They will go into caves in the earth. They will be afraid of the Lord. His glory will destroy them when he rises to shake the earth."
+    },
+    {
+      "number": 20,
+      "content": "On that day, people will throw away their silver idols. They will throw away their gold idols that they made to worship. They will throw them to the moles and bats."
+    },
+    {
+      "number": 21,
+      "content": "They will go into cracks in the rocks. They will go to the tops of rough cliffs. They will be afraid of the Lord. His glory will destroy them when he rises to shake the earth."
+    },
+    {
+      "number": 22,
+      "content": "Stop trusting in people. They only have breath in their noses. Why should they be important?"
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Isaiah's Vision",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 2,
+        "position": "before_verse",
+        "text": "The Lord's Temple in the Last Days",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "Israel Has Turned Away",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "The Day of the Lord",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "text": "People Will Hide from God",
+        "level": 3,
+        "sortOrder": 5
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 2,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}

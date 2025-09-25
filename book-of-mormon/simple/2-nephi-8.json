@@ -1,0 +1,176 @@
+{
+  "book": "2 Nephi",
+  "chapter": 8,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Listen to me, you who try to do what is right. Remember where you came from."
+    },
+    {
+      "number": 2,
+      "content": "Remember Abraham, your ancestor. Remember Sarah who gave birth to your people. I called Abraham when he was alone. I blessed him."
+    },
+    {
+      "number": 3,
+      "content": "The Lord will comfort Zion. He will comfort all her empty places. He will make her dry lands like the Garden of Eden. People there will be happy. They will give thanks and sing."
+    },
+    {
+      "number": 4,
+      "content": "Listen to me, my people. My nation, hear me! My law will go out from me. My fairness will be a light for all people."
+    },
+    {
+      "number": 5,
+      "content": "My goodness is near. My rescue has already gone out. My arm will judge the people. The islands will wait for me. They will trust my arm."
+    },
+    {
+      "number": 6,
+      "content": "Look up at the sky. Look at the earth below. The sky will disappear like smoke. The earth will wear out like old clothes. The people living there will die the same way. But my rescue will last forever. My goodness will never end."
+    },
+    {
+      "number": 7,
+      "content": "Listen to me, you who know what is right. You are the people who have my law in your hearts. Don't be afraid when people insult you. Don't be scared when they make fun of you."
+    },
+    {
+      "number": 8,
+      "content": "Moths will eat them up like clothes. Worms will eat them like wool. But my goodness will last forever. My rescue will continue for all time."
+    },
+    {
+      "number": 9,
+      "content": "Wake up! Wake up! Be strong, arm of the Lord! Wake up like in the old days. Weren't you the one who cut Rahab to pieces? Weren't you the one who hurt the dragon?"
+    },
+    {
+      "number": 10,
+      "content": "Weren't you the one who dried up the sea? You made a path through the deep waters. You made a way for your saved people to cross over."
+    },
+    {
+      "number": 11,
+      "content": "So the Lord's saved people will return. They will come to Zion singing. Joy that never ends will be on their heads. They will be happy. Sadness and crying will go away."
+    },
+    {
+      "number": 12,
+      "content": "I am the one who comforts you. Why are you afraid of people who will die? Why fear humans who are like grass?"
+    },
+    {
+      "number": 13,
+      "content": "You forget the Lord who made you. He stretched out the sky and made the earth. Every day you are afraid of your enemy. You think he is ready to destroy you. But where is your enemy's anger now?"
+    },
+    {
+      "number": 14,
+      "content": "The prisoners will soon be set free. They won't die in prison. They won't run out of food."
+    },
+    {
+      "number": 15,
+      "content": "I am the Lord your God. I make the waves roar. My name is the Lord of Armies."
+    },
+    {
+      "number": 16,
+      "content": "I have put my words in your mouth. I have covered you with my hand's shadow. I planted the sky and made the earth. I say to Zion: \"You are my people.\""
+    },
+    {
+      "number": 17,
+      "content": "Wake up! Wake up! Stand up, Jerusalem! You have drunk the Lord's anger from his cup. You have drunk every drop from the cup of shaking."
+    },
+    {
+      "number": 18,
+      "content": "None of the children you gave birth to can guide you. None of the children you raised can take your hand."
+    },
+    {
+      "number": 19,
+      "content": "Two terrible things have happened to you. Who will feel sorry for you? Your land is destroyed and empty. People are hungry and killed by swords. How can I comfort you?"
+    },
+    {
+      "number": 20,
+      "content": "Your children have fainted, except for two. They lie at every street corner like wild animals caught in a net. They are filled with the Lord's anger and with God's strong words."
+    },
+    {
+      "number": 21,
+      "content": "So listen to this, you who are suffering. You are drunk, but not from wine."
+    },
+    {
+      "number": 22,
+      "content": "Your Lord God speaks for his people. He says: \"I have taken the cup of shaking from your hand. You drank my anger from that cup. You will never drink from it again.\""
+    },
+    {
+      "number": 23,
+      "content": "\"I will give that cup to those who hurt you. They told you: 'Lie down so we can walk on you.' You made your back like the ground. You became like a street for them to walk on.\""
+    },
+    {
+      "number": 24,
+      "content": "Wake up! Wake up! Be strong, Zion! Put on your beautiful clothes, Jerusalem, the holy city. Unholy and unclean people will never enter you again."
+    },
+    {
+      "number": 25,
+      "content": "Shake off the dust! Get up and sit down, Jerusalem. Free yourself from the chains on your neck, captured daughter of Zion."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Remember Your Ancestors",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "God's Rescue Lasts Forever",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "text": "God Will Save His People",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "text": "Jerusalem Will Be Free",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 21,
+        "position": "before_verse",
+        "sortOrder": 6
+      },
+      {
+        "verseNumber": 24,
+        "position": "before_verse",
+        "sortOrder": 7
+      }
+    ]
+  }
+}

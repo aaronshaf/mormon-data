@@ -1,0 +1,68 @@
+{
+  "book": "2 Nephi",
+  "chapter": 14,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "At that time, seven women will grab hold of one man. They will say: \"We will take care of ourselves. We will get our own food and clothes. Just let us be called by your name. This will take away our shame.\""
+    },
+    {
+      "number": 2,
+      "content": "At that time the Lord's branch will be beautiful. It will be wonderful. The fruit of the land will be great and lovely for the people of Israel who escaped."
+    },
+    {
+      "number": 3,
+      "content": "Then the people who are left in Zion and Jerusalem will be called holy. Everyone whose name is written in the book of life in Jerusalem will be holy."
+    },
+    {
+      "number": 4,
+      "content": "The Lord will wash away the dirt from the daughters of Zion. He will clean away the blood from Jerusalem. He will use the spirit of judgment and the spirit of burning."
+    },
+    {
+      "number": 5,
+      "content": "The Lord will create a cloud of smoke during the day over every home in Mount Zion. At night there will be bright fire. All of Zion's glory will be protected."
+    },
+    {
+      "number": 6,
+      "content": "There will be a shelter to give shade from the heat during the day. It will be a safe place to hide from storms and rain."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "The Future Glory of Zion",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse", 
+        "text": "God's Holy People",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "God's Protection",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 2
+      }
+    ]
+  }
+}

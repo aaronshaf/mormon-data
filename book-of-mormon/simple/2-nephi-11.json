@@ -1,0 +1,76 @@
+{
+  "book": "2 Nephi",
+  "chapter": 11,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Jacob spoke many more things to my people. But I only had these things written down. What I have written is enough for me."
+    },
+    {
+      "number": 2,
+      "content": "I, Nephi, will write more words from Isaiah. I love his words. I will compare his words to my people. I will send them to all my children. Isaiah saw my Savior just as I have seen him."
+    },
+    {
+      "number": 3,
+      "content": "My brother Jacob has also seen him like I have seen him. So I will send their words to my children. This will prove my words are true. God said he will prove his word through three people. But God sends even more witnesses. He proves all his words."
+    },
+    {
+      "number": 4,
+      "content": "I love to prove to my people that Christ will come. This is why God gave the law of Moses. Everything God has given people from the beginning of the world points to him."
+    },
+    {
+      "number": 5,
+      "content": "I also love the promises the Lord made to our fathers. I love his goodness and his fairness. I love his power and his mercy. I love his great and eternal plan to save us from death."
+    },
+    {
+      "number": 6,
+      "content": "I love to prove to my people that everyone would die without Christ."
+    },
+    {
+      "number": 7,
+      "content": "If there is no Christ, there is no God. If there is no God, we would not exist. There could be no creation. But there is a God, and he is Christ. He will come at his own right time."
+    },
+    {
+      "number": 8,
+      "content": "I write some of Isaiah's words. My people who read these words can lift up their hearts. They can be happy for all people. These are the words. You can compare them to yourself and to all people."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Nephi's Purpose in Writing",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "Christ Is the Center of Everything",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "text": "Isaiah's Words for Everyone",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      }
+    ]
+  }
+}

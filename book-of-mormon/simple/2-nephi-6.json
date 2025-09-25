@@ -1,0 +1,149 @@
+{
+  "book": "2 Nephi",
+  "chapter": 6,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "These are the words of Jacob. He was Nephi's brother. He spoke to the people of Nephi."
+    },
+    {
+      "number": 2,
+      "content": "My dear brothers and sisters, I, Jacob, was called by God. I was chosen according to his holy order. My brother Nephi made me a leader. You look at him as a king or protector. You depend on him for safety. You know I have spoken to you many times."
+    },
+    {
+      "number": 3,
+      "content": "But I speak to you again. I care very much about your souls. I am very worried about you. You know I have always been worried about you. I have taught you with all my effort. I have taught you my father's words. I have spoken to you about everything written since the world was created."
+    },
+    {
+      "number": 4,
+      "content": "I want to speak to you about things happening now and things that will happen. So I will read you Isaiah's words. My brother asked me to speak these words to you. I speak them for your sake. I want you to learn and honor God's name."
+    },
+    {
+      "number": 5,
+      "content": "The words I will read are what Isaiah said about all of Israel. These words can apply to you. You are part of Israel. Many things Isaiah said can apply to you because you are from Israel."
+    },
+    {
+      "number": 6,
+      "content": "These are the words: The Lord God says: \"I will wave my hand to the non-Jews. I will set up my flag for the people. They will carry your sons in their arms. They will carry your daughters on their shoulders.\""
+    },
+    {
+      "number": 7,
+      "content": "\"Kings will take care of you like fathers. Queens will take care of you like mothers. They will bow down to you with their faces to the ground. They will lick the dust off your feet. Then you will know that I am the Lord. People who wait for me will not be disappointed.\""
+    },
+    {
+      "number": 8,
+      "content": "I want to say something about these words. The Lord has shown me that the people in Jerusalem have been killed and taken away as prisoners. That is where we came from."
+    },
+    {
+      "number": 9,
+      "content": "But the Lord has shown me they will return again. He has also shown me that the Lord God will appear to them as a person. The Holy One of Israel will come in a body. After he appears, they will hurt him and kill him on a cross. The angel told me this."
+    },
+    {
+      "number": 10,
+      "content": "After they make their hearts hard against the Holy One of Israel, his punishments will come on them. The day will come when they will be hurt and suffer."
+    },
+    {
+      "number": 11,
+      "content": "They will be driven from place to place. The angel said many will suffer in their bodies. But they will not die because of faithful people's prayers. They will be scattered, hurt, and hated. But the Lord will be kind to them. When they learn about their Savior, they will be gathered to their own lands again."
+    },
+    {
+      "number": 12,
+      "content": "God blesses the non-Jews. The prophet wrote about them. If they change their hearts and do not fight against Zion, they will be saved. If they do not join that great and terrible church, they will be saved. The Lord God will keep his promises to his children. That is why the prophet wrote these things."
+    },
+    {
+      "number": 13,
+      "content": "Those who fight against Zion and the Lord's people will lick the dust off their feet. The Lord's people will not be disappointed. The Lord's people are those who wait for him. They still wait for the Messiah to come."
+    },
+    {
+      "number": 14,
+      "content": "The prophet says the Messiah will come a second time to save them. He will show himself to them in power and great glory. He will destroy their enemies on that day. That is when they will believe in him. He will not destroy anyone who believes in him."
+    },
+    {
+      "number": 15,
+      "content": "Those who do not believe in him will be destroyed. They will be destroyed by fire, storms, earthquakes, killing, disease, and hunger. They will know that the Lord is God. He is the Holy One of Israel."
+    },
+    {
+      "number": 16,
+      "content": "\"Can anyone take something away from a powerful person? Can a prisoner who was rightly captured be set free?\""
+    },
+    {
+      "number": 17,
+      "content": "But the Lord says: \"Even the powerful person's prisoners will be taken away. What the scary person took will be given back. The Mighty God will save his people. The Lord says: 'I will fight against those who fight against you.'\""
+    },
+    {
+      "number": 18,
+      "content": "\"I will make those who hurt you eat their own flesh. They will drink their own blood like it is sweet wine. Then everyone will know that I the Lord am your Savior. I am your Redeemer. I am the Mighty One of Jacob.\""
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Jacob Speaks to the People",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "Isaiah's Words About Israel",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "text": "What Will Happen to Jerusalem",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "text": "The Messiah Will Come Again",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "text": "God Will Save His People",
+        "level": 3,
+        "sortOrder": 5
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}
