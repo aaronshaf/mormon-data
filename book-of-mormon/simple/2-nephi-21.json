@@ -1,0 +1,118 @@
+{
+  "book": "2 Nephi",
+  "chapter": 21,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "A new branch will grow from Jesse's family tree. It will grow from his roots."
+    },
+    {
+      "number": 2,
+      "content": "The Spirit of the Lord will rest on him. He will have wisdom and understanding. He will have good advice and power. He will know God and respect him."
+    },
+    {
+      "number": 3,
+      "content": "He will understand things quickly because he respects the Lord. He won't judge by what he sees with his eyes. He won't correct people by what he hears with his ears."
+    },
+    {
+      "number": 4,
+      "content": "He will judge poor people fairly. He will make fair decisions for humble people. He will punish the earth with his words. His breath will destroy bad people."
+    },
+    {
+      "number": 5,
+      "content": "Being right will be like a belt around him. Being faithful will hold him tight."
+    },
+    {
+      "number": 6,
+      "content": "Wolves will live with lambs. Leopards will lie down with baby goats. Calves, young lions, and fat animals will be together. A little child will lead them."
+    },
+    {
+      "number": 7,
+      "content": "Cows and bears will eat together. Their babies will lie down together. Lions will eat grass like cows."
+    },
+    {
+      "number": 8,
+      "content": "A baby will play near a snake's hole. A young child will put his hand in a poisonous snake's home."
+    },
+    {
+      "number": 9,
+      "content": "Nothing will hurt or destroy on my holy mountain. The earth will be full of knowing the Lord. It will be like water covering the sea."
+    },
+    {
+      "number": 10,
+      "content": "In that day, Jesse's descendant will stand as a sign for all people. The nations will come to him. His resting place will be wonderful."
+    },
+    {
+      "number": 11,
+      "content": "Then the Lord will reach out his hand a second time. He will bring back the rest of his people. They will come from Assyria, Egypt, Pathros, Cush, Elam, Shinar, Hamath, and the islands of the sea."
+    },
+    {
+      "number": 12,
+      "content": "He will set up a sign for all nations. He will gather Israel's people who were sent away. He will bring Judah's scattered people from all over the earth."
+    },
+    {
+      "number": 13,
+      "content": "Ephraim will stop being jealous. Judah's enemies will be destroyed. Ephraim won't be jealous of Judah. Judah won't trouble Ephraim."
+    },
+    {
+      "number": 14,
+      "content": "They will attack the Philistines in the west. Together they will take things from people in the east. They will control Edom and Moab. The people of Ammon will obey them."
+    },
+    {
+      "number": 15,
+      "content": "The Lord will completely dry up the Egyptian sea. He will wave his hand over the river with a strong wind. He will break it into seven streams. People will walk across wearing sandals."
+    },
+    {
+      "number": 16,
+      "content": "There will be a road for the rest of his people coming from Assyria. It will be like when Israel came up from Egypt."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "A Leader from Jesse's Family",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "Animals Living in Peace",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "God Gathers His People",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}

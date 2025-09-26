@@ -1,0 +1,150 @@
+{
+  "book": "Jacob",
+  "chapter": 4,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Jacob, taught my people many things. I can only write a little because it's hard to carve words on metal plates. We know that what we write on plates will last."
+    },
+    {
+      "number": 2,
+      "content": "Things written on paper will fade away. But we can write a few words on plates. These words will teach our children and brothers about us and their fathers."
+    },
+    {
+      "number": 3,
+      "content": "This makes us happy. We work hard to carve these words on plates. We hope our brothers and children will read them with thankful hearts. We want them to learn with joy about their first parents."
+    },
+    {
+      "number": 4,
+      "content": "We wrote these things so they will know we knew about Christ. We had hope in his glory hundreds of years before he came. All the holy prophets before us also had this hope."
+    },
+    {
+      "number": 5,
+      "content": "They believed in Christ and worshiped the Father in his name. We also worship the Father in his name. That's why we keep the law of Moses. It points our souls to Christ. It makes us right with God, just like when Abraham obeyed God. Abraham was ready to sacrifice his son Isaac. This was like God sacrificing his only Son."
+    },
+    {
+      "number": 6,
+      "content": "So we study the prophets. We have many revelations and the Spirit of prophecy. With all these witnesses, we have strong hope. Our faith becomes unshakeable. We can even command in Jesus' name. Trees obey us. Mountains and sea waves obey us too."
+    },
+    {
+      "number": 7,
+      "content": "But the Lord God shows us our weakness. We know it is by his grace and kindness that we have power to do these things."
+    },
+    {
+      "number": 8,
+      "content": "The Lord's works are great and wonderful. His mysteries are so deep that we cannot understand them all. No one knows his ways unless God reveals them. So brothers, don't reject God's revelations."
+    },
+    {
+      "number": 9,
+      "content": "By the power of God's word, people came to the earth. The earth was created by his word. If God could speak and the world was made, if he could speak and people were created, then he can command the earth. He can control everything he made."
+    },
+    {
+      "number": 10,
+      "content": "Brothers, don't try to tell the Lord what to do. Instead, take his advice. You know he guides everything with wisdom, justice, and great mercy."
+    },
+    {
+      "number": 11,
+      "content": "Dear brothers, make peace with God through Christ's sacrifice. Christ is his only Son. Then you can be raised from the dead by Christ's power. You will be given to God as the first fruits of Christ. Have faith and hope in his glory before he comes to earth."
+    },
+    {
+      "number": 12,
+      "content": "Dear friends, don't be surprised that I tell you these things. Why shouldn't I speak about Christ's sacrifice? Why not learn perfectly about him? Why not learn about the resurrection and the world to come?"
+    },
+    {
+      "number": 13,
+      "content": "Brothers, if someone prophesies, let them speak clearly so people understand. The Spirit speaks the truth and doesn't lie. It tells about things as they really are and will be. These things are shown to us plainly to save our souls. We aren't the only witnesses. God also told the old prophets these things."
+    },
+    {
+      "number": 14,
+      "content": "But the Jews were stubborn people. They hated plain words and killed the prophets. They looked for things they couldn't understand. Because they were blind, they had to fall. They became blind by looking past the mark. So God took away his plain words. He gave them many things they couldn't understand because that's what they wanted. God did this so they would stumble."
+    },
+    {
+      "number": 15,
+      "content": "The Spirit leads me to prophesy. I see by the Spirit's workings in me that when the Jews stumble, they will reject the stone they could build on. This stone is their safe foundation."
+    },
+    {
+      "number": 16,
+      "content": "But according to the scriptures, this stone will become the great, last, and only sure foundation the Jews can build on."
+    },
+    {
+      "number": 17,
+      "content": "My dear friends, how can they build on this foundation after rejecting it? How can it become their cornerstone?"
+    },
+    {
+      "number": 18,
+      "content": "Dear brothers, I will explain this mystery to you. I will if the Spirit keeps me firm and I don't stumble because I worry too much about you."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Writing on Metal Plates",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "Believing in Christ Before He Came",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "text": "God's Power and Mysteries",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "text": "Christ's Sacrifice and Resurrection",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "text": "The Jews Reject Their Foundation",
+        "level": 3,
+        "sortOrder": 5
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}

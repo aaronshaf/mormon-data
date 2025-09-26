@@ -1,0 +1,49 @@
+{
+  "book": "2 Nephi",
+  "chapter": 22,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "In that day you will say: \"Lord, I will praise you. You were angry with me. But your anger is gone now. You have made me feel better.\""
+    },
+    {
+      "number": 2,
+      "content": "God saves me. I will trust him and not be afraid. The Lord Jehovah gives me strength. He is my song. He has saved me."
+    },
+    {
+      "number": 3,
+      "content": "You will be happy when you get water from the wells of salvation."
+    },
+    {
+      "number": 4,
+      "content": "In that day you will say: \"Praise the Lord! Call on his name! Tell people what he has done. Help them remember that his name is great.\""
+    },
+    {
+      "number": 5,
+      "content": "Sing to the Lord! He has done wonderful things. Everyone on earth knows this."
+    },
+    {
+      "number": 6,
+      "content": "Call out! Shout, you people of Zion! The Holy One of Israel is great. He is with you."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "A Song of Praise",
+        "level": 3,
+        "sortOrder": 1
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      }
+    ]
+  }
+}

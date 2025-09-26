@@ -1,0 +1,154 @@
+{
+  "book": "2 Nephi",
+  "chapter": 18,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "The Lord said to me: \"Take a large scroll. Write on it with a pen about Maher-shalal-hash-baz.\""
+    },
+    {
+      "number": 2,
+      "content": "I got two men to watch what I wrote. They were Uriah the priest and Zechariah, the son of Jeberechiah."
+    },
+    {
+      "number": 3,
+      "content": "I went to my wife who was a prophet. She had a baby boy. Then the Lord said to me: \"Name him Maher-shalal-hash-baz.\""
+    },
+    {
+      "number": 4,
+      "content": "Before the child can say \"Father\" or \"Mother,\" the king of Assyria will take away the riches from Damascus and Samaria."
+    },
+    {
+      "number": 5,
+      "content": "The Lord spoke to me again:"
+    },
+    {
+      "number": 6,
+      "content": "\"This people will not accept the gentle water from Shiloah. They are happy with Rezin and Remaliah's son."
+    },
+    {
+      "number": 7,
+      "content": "So the Lord will bring the king of Assyria against them. He will be like a strong river with many waters. He will flow over all his channels and banks."
+    },
+    {
+      "number": 8,
+      "content": "He will pass through Judah like a flood. The water will reach up to their necks. His wings will spread over your whole land, Immanuel.\""
+    },
+    {
+      "number": 9,
+      "content": "\"Join together, you people, but you will be broken apart. Listen, all you far away countries. Get ready for war, but you will be broken apart.\""
+    },
+    {
+      "number": 10,
+      "content": "\"Make your plans, but they will fail. Say what you want, but it will not happen. God is with us.\""
+    },
+    {
+      "number": 11,
+      "content": "The Lord spoke to me with great power. He taught me not to follow the way of this people. He said:"
+    },
+    {
+      "number": 12,
+      "content": "\"Don't call everything a plot that these people call a plot. Don't be afraid of what they fear.\""
+    },
+    {
+      "number": 13,
+      "content": "\"Make the Lord of hosts holy. Let him be the one you fear and respect.\""
+    },
+    {
+      "number": 14,
+      "content": "He will be a safe place. But he will also be a stone that makes people trip. He will be a rock that makes both families of Israel fall. He will be a trap for the people of Jerusalem."
+    },
+    {
+      "number": 15,
+      "content": "Many of them will trip and fall. They will be broken, trapped, and caught."
+    },
+    {
+      "number": 16,
+      "content": "\"Write down my message. Keep the law safe with my followers.\""
+    },
+    {
+      "number": 17,
+      "content": "I will wait for the Lord. He is hiding his face from Jacob's family. I will look for him."
+    },
+    {
+      "number": 18,
+      "content": "I and the children the Lord gave me are signs and wonders in Israel. They come from the Lord of hosts who lives on Mount Zion."
+    },
+    {
+      "number": 19,
+      "content": "When people tell you to ask fortune-tellers and wizards who whisper and mutter, ask them: \"Shouldn't people ask their God? Why ask the dead about the living?\""
+    },
+    {
+      "number": 20,
+      "content": "Go to God's law and teachings. If they don't speak according to God's word, they have no light."
+    },
+    {
+      "number": 21,
+      "content": "They will wander through the land, troubled and hungry. When they are hungry, they will get angry. They will curse their king and their God. They will look up to heaven."
+    },
+    {
+      "number": 22,
+      "content": "Then they will look at the earth. They will see only trouble, darkness, and pain. They will be pushed into darkness."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "A Sign Through Isaiah's Son",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "Assyria Will Come Like a Flood",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "text": "Trust in the Lord, Not People",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "text": "Follow God's Word, Not Fortune-Tellers",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 21,
+        "position": "before_verse",
+        "sortOrder": 5
+      }
+    ]
+  }
+}

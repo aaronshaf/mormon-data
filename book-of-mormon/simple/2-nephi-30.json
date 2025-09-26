@@ -1,0 +1,150 @@
+{
+  "book": "2 Nephi",
+  "chapter": 30,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, want to speak to you, my dear brothers. Don't think you are better than the Gentiles will be. If you don't keep God's commandments, you will all die too. Because of what has been said, don't think the Gentiles are completely destroyed."
+    },
+    {
+      "number": 2,
+      "content": "I tell you this. Any Gentiles who turn away from sin are God's promised people. Any Jews who don't turn away from sin will be cut off. The Lord only makes promises to those who turn away from sin and believe in his Son. His Son is the Holy One of Israel."
+    },
+    {
+      "number": 3,
+      "content": "I want to tell you more about the Jews and the Gentiles. The book I talked about will come out. It will be written for the Gentiles. Then it will be sealed up again for the Lord. Many people will believe what is written in it. They will take those words to what is left of our children."
+    },
+    {
+      "number": 4,
+      "content": "Then what is left of our children will know about us. They will know that we came from Jerusalem. They will know they come from the Jews."
+    },
+    {
+      "number": 5,
+      "content": "The good news about Jesus Christ will be taught to them. They will learn about their ancestors again. They will also learn about Jesus Christ. Their ancestors knew about him."
+    },
+    {
+      "number": 6,
+      "content": "Then they will be happy. They will know this is a blessing from God. The darkness covering their eyes will start to fall away. Not many generations will pass before they become a pure and wonderful people."
+    },
+    {
+      "number": 7,
+      "content": "The Jews who are scattered will also start to believe in Christ. They will start to gather together on the earth. All who believe in Christ will also become a wonderful people."
+    },
+    {
+      "number": 8,
+      "content": "The Lord God will start his work among all nations, families, languages, and peoples. He will bring his people back to the earth."
+    },
+    {
+      "number": 9,
+      "content": "The Lord God will judge poor people fairly. He will correct humble people with fairness. He will strike the earth with his words. He will destroy the wicked with his breath."
+    },
+    {
+      "number": 10,
+      "content": "The time is coming quickly when the Lord God will divide the people. He will destroy the wicked. He will save his people. Even if he has to destroy the wicked with fire."
+    },
+    {
+      "number": 11,
+      "content": "Being right will be like a belt around his waist. Being faithful will be like a belt around his body."
+    },
+    {
+      "number": 12,
+      "content": "Then the wolf will live with the lamb. The leopard will lie down with the baby goat. The calf, the young lion, and the fat animal will be together. A little child will lead them."
+    },
+    {
+      "number": 13,
+      "content": "The cow and the bear will eat together. Their babies will lie down together. The lion will eat grass like the ox."
+    },
+    {
+      "number": 14,
+      "content": "The baby will play near the snake's hole. The small child will put his hand over the poisonous snake's home."
+    },
+    {
+      "number": 15,
+      "content": "Nothing will hurt or destroy on all my holy mountain. The earth will be full of knowing the Lord. It will be like water covering the sea."
+    },
+    {
+      "number": 16,
+      "content": "So things from all nations will be known. Everything will be made known to people."
+    },
+    {
+      "number": 17,
+      "content": "Nothing will stay secret. Everything will be shown. No dark works will stay hidden. Everything will be brought to light. Nothing sealed on earth will stay closed."
+    },
+    {
+      "number": 18,
+      "content": "So everything shown to people will be shown on that day. Satan won't have power over people's hearts anymore for a long time. My dear brothers, I must end my words now."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "God's People Must Keep His Commandments",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "text": "The Book Will Come to Our Children",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "text": "God Will Gather His People",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "text": "Animals Will Live in Peace",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "text": "All Things Will Be Made Known",
+        "level": 3,
+        "sortOrder": 5
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}

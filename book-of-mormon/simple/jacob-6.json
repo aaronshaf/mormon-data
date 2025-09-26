@@ -1,0 +1,113 @@
+{
+  "book": "Jacob",
+  "chapter": 6,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Brothers and sisters, I told you I would speak God's message. This is my message: Everything the prophet Zenos said about Israel will happen. He compared them to an olive tree that someone takes care of."
+    },
+    {
+      "number": 2,
+      "content": "The day will come when God works again to save his people. It will be the last time. God's servants will go out with his power to help and take care of his garden. After that, the end will come soon."
+    },
+    {
+      "number": 3,
+      "content": "Those who have worked hard in God's garden are blessed. But those who are thrown out to their own place are cursed. The world will burn with fire."
+    },
+    {
+      "number": 4,
+      "content": "Our God is kind to us! He remembers Israel, both the roots and branches. He reaches out his hands to them all day long. They are stubborn and argue with him. But those who don't make their hearts hard will be saved in God's kingdom."
+    },
+    {
+      "number": 5,
+      "content": "So my dear brothers and sisters, I ask you with serious words to change your hearts. Come to God with all your heart. Hold on to God as he holds on to you. His loving arms are reaching toward you in the daylight. Don't make your hearts hard."
+    },
+    {
+      "number": 6,
+      "content": "Today, if you hear God's voice, don't make your hearts hard. Why do you want to die?"
+    },
+    {
+      "number": 7,
+      "content": "After you have been fed by God's good word all day long, will you grow bad fruit? Then you must be cut down and thrown into the fire."
+    },
+    {
+      "number": 8,
+      "content": "Will you turn away from these words? Will you turn away from what the prophets said? Will you turn away from all the words about Christ after so many people have talked about him? Will you say no to Christ's good word and God's power? Will you say no to the gift of the Holy Spirit and stop the Holy Spirit? Will you make fun of the great plan to save you?"
+    },
+    {
+      "number": 9,
+      "content": "If you do these things, Christ's power to save and bring people back to life will make you stand before God. You will feel shame and terrible guilt. God's justice cannot be stopped."
+    },
+    {
+      "number": 10,
+      "content": "You must go to the lake of fire and burning rock. Its flames never go out. Its smoke goes up forever and ever. This lake of fire and burning rock is endless suffering."
+    },
+    {
+      "number": 11,
+      "content": "So my dear brothers and sisters, change your hearts! Go through the straight gate. Keep walking on the narrow path until you get eternal life."
+    },
+    {
+      "number": 12,
+      "content": "Be wise. What more can I say?"
+    },
+    {
+      "number": 13,
+      "content": "Finally, I say goodbye until I meet you before God's judgment seat. That judgment seat fills bad people with terrible fear. Amen."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Zenos' Prophecy Will Come True",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "God Reaches Out to His People",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "text": "Warning Against Rejecting God",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "text": "Final Call to Change",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}

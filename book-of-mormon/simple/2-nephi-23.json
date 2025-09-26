@@ -1,0 +1,154 @@
+{
+  "book": "2 Nephi",
+  "chapter": 23,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "This is a message about Babylon. Isaiah, the son of Amoz, saw this vision."
+    },
+    {
+      "number": 2,
+      "content": "Raise a flag on the high mountain. Call out to them in a loud voice. Wave your hand. Tell them to go through the gates of the important people."
+    },
+    {
+      "number": 3,
+      "content": "I have told my holy ones what to do. I have called my strong warriors. They are happy to serve me."
+    },
+    {
+      "number": 4,
+      "content": "Listen to the noise in the mountains! It sounds like a huge crowd. It is the sound of many nations coming together. The Lord of all armies is bringing his soldiers together for battle."
+    },
+    {
+      "number": 5,
+      "content": "They come from far away countries. They come from the end of heaven. The Lord brings his weapons of anger to destroy the whole land."
+    },
+    {
+      "number": 6,
+      "content": "Cry out! The day of the Lord is coming soon. It will bring destruction from the Almighty God."
+    },
+    {
+      "number": 7,
+      "content": "So all hands will become weak. Every person's heart will melt with fear."
+    },
+    {
+      "number": 8,
+      "content": "They will be afraid. Pain and sadness will take hold of them. They will look at each other in shock. Their faces will burn like fire."
+    },
+    {
+      "number": 9,
+      "content": "The day of the Lord is coming. It will be terrible with anger and rage. It will destroy the land. He will destroy the sinners who live there."
+    },
+    {
+      "number": 10,
+      "content": "The stars in the sky will not shine their light. The sun will be dark when it rises. The moon will not give its light."
+    },
+    {
+      "number": 11,
+      "content": "I will punish the world for its evil. I will punish bad people for their sins. I will stop the proud from bragging. I will bring down those who hurt others."
+    },
+    {
+      "number": 12,
+      "content": "People will be harder to find than pure gold. They will be more rare than the gold from Ophir."
+    },
+    {
+      "number": 13,
+      "content": "So I will shake the heavens. The earth will move from its place. This will happen when the Lord of all armies shows his anger. It will happen on the day of his great rage."
+    },
+    {
+      "number": 14,
+      "content": "People will be like deer being hunted. They will be like sheep with no shepherd. Each person will run back to their own people. Everyone will escape to their own land."
+    },
+    {
+      "number": 15,
+      "content": "Everyone who is proud will be stabbed through. Everyone who joins with the bad people will die by the sword."
+    },
+    {
+      "number": 16,
+      "content": "Their children will be killed in front of them. Their houses will be robbed. Their wives will be attacked."
+    },
+    {
+      "number": 17,
+      "content": "I will bring the Medes to fight against them. The Medes don't care about silver and gold."
+    },
+    {
+      "number": 18,
+      "content": "Their bows will kill the young men. They will not show mercy to babies. They will not feel sorry for children."
+    },
+    {
+      "number": 19,
+      "content": "Babylon is the most beautiful kingdom. The Chaldeans are proud of it. But it will be like when God destroyed Sodom and Gomorrah."
+    },
+    {
+      "number": 20,
+      "content": "No one will ever live there again. It will be empty forever. Arabs will not set up tents there. Shepherds will not bring their sheep there."
+    },
+    {
+      "number": 21,
+      "content": "Wild animals from the desert will live there. The houses will be full of scary creatures. Owls will live there. Wild goats will jump around there."
+    },
+    {
+      "number": 22,
+      "content": "Wild animals will cry out in the empty buildings. Dragons will live in the palaces that were once beautiful. Babylon's time is almost over. Its days will not last long. I will destroy it quickly. I will be kind to my people. But the bad people will die."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Isaiah's Message About Babylon",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "The Day of the Lord",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "text": "People Will Try to Escape",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "text": "Babylon Will Be Destroyed Forever",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 21,
+        "position": "before_verse",
+        "sortOrder": 5
+      }
+    ]
+  }
+}

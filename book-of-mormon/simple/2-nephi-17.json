@@ -1,0 +1,171 @@
+{
+  "book": "2 Nephi",
+  "chapter": 17,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "When Ahaz was king of Judah, two other kings tried to attack Jerusalem. These were Rezin, king of Syria, and Pekah, king of Israel. But they could not win against Jerusalem."
+    },
+    {
+      "number": 2,
+      "content": "Someone told King David's family that Syria had joined with Ephraim. The king and his people were scared. They shook like trees shaking in the wind."
+    },
+    {
+      "number": 3,
+      "content": "Then the Lord said to Isaiah: \"Go meet King Ahaz. Take your son Shearjashub with you. Meet him at the end of the water tunnel by the upper pool. It's on the road to the laundry workers' field.\""
+    },
+    {
+      "number": 4,
+      "content": "\"Tell him to be careful and stay calm. Don't be afraid. Don't worry about those two angry kings, Rezin of Syria and Pekah. They are like two burned-out torches.\""
+    },
+    {
+      "number": 5,
+      "content": "\"Syria, Ephraim, and Pekah have made evil plans against you. They said:\""
+    },
+    {
+      "number": 6,
+      "content": "\"Let's attack Judah. Let's make trouble for them. Let's break through their defenses. Then we'll make Tabeal's son their king.\""
+    },
+    {
+      "number": 7,
+      "content": "But this is what the Lord God says: \"It won't happen. It won't come true.\""
+    },
+    {
+      "number": 8,
+      "content": "\"Damascus is the capital of Syria. Rezin is the ruler of Damascus. Within sixty-five years, Ephraim will be destroyed. It won't be a nation anymore.\""
+    },
+    {
+      "number": 9,
+      "content": "\"Samaria is the capital of Ephraim. Remaliah's son is the ruler of Samaria. If you don't believe, you won't last.\""
+    },
+    {
+      "number": 10,
+      "content": "The Lord spoke to Ahaz again. He said:"
+    },
+    {
+      "number": 11,
+      "content": "\"Ask the Lord your God for a sign. Ask for it in the deepest places or in the highest heavens.\""
+    },
+    {
+      "number": 12,
+      "content": "But Ahaz said: \"I won't ask. I won't test the Lord.\""
+    },
+    {
+      "number": 13,
+      "content": "Then Isaiah said: \"Listen, family of David! Isn't it enough that you tire out people? Will you tire out my God too?\""
+    },
+    {
+      "number": 14,
+      "content": "\"So the Lord himself will give you a sign. A virgin will have a baby. She will have a son. She will name him Immanuel.\""
+    },
+    {
+      "number": 15,
+      "content": "\"He will eat butter and honey. By that time he will know right from wrong.\""
+    },
+    {
+      "number": 16,
+      "content": "\"Before the child knows right from wrong, the land you fear will lose both its kings.\""
+    },
+    {
+      "number": 17,
+      "content": "\"The Lord will bring hard times on you and your people. These will be the worst days since Ephraim split from Judah. The king of Assyria will come.\""
+    },
+    {
+      "number": 18,
+      "content": "\"When that day comes, the Lord will whistle for the flies from Egypt's rivers. He will call for the bees from Assyria.\""
+    },
+    {
+      "number": 19,
+      "content": "\"They will all come. They will settle in the empty valleys and rock caves. They will cover all the thorn bushes and plants.\""
+    },
+    {
+      "number": 20,
+      "content": "\"On that day, the Lord will use the king of Assyria like a hired razor. He will shave your head and legs. He will even shave off your beard.\""
+    },
+    {
+      "number": 21,
+      "content": "\"When that day comes, a person will keep alive one young cow and two sheep.\""
+    },
+    {
+      "number": 22,
+      "content": "\"They will give so much milk that he will eat butter. Everyone left in the land will eat butter and honey.\""
+    },
+    {
+      "number": 23,
+      "content": "\"When that day comes, every place that had a thousand grapevines worth a thousand silver coins will be full of thorns and weeds.\""
+    },
+    {
+      "number": 24,
+      "content": "\"People will go there with bows and arrows. The whole land will be covered with thorns and weeds.\""
+    },
+    {
+      "number": 25,
+      "content": "\"All the hills that used to be farmed won't be farmed anymore. People will be afraid of the thorns and weeds. Only cattle and sheep will go there.\""
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Two Kings Attack Jerusalem",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "text": "Isaiah's Message to King Ahaz",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "The Sign of Immanuel",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "text": "Hard Times Are Coming",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 21,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "book": "2 Nephi",
+  "chapter": 32,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "My dear brothers, I think you are wondering what to do after you have started on the right path. Why do you wonder about these things in your hearts?"
+    },
+    {
+      "number": 2,
+      "content": "Don't you remember what I told you? After you receive the Holy Ghost, you can speak with the tongue of angels. How could you speak with the tongue of angels without the Holy Ghost?"
+    },
+    {
+      "number": 3,
+      "content": "Angels speak by the power of the Holy Ghost. So they speak the words of Christ. That's why I told you to feast on the words of Christ. The words of Christ will tell you everything you should do."
+    },
+    {
+      "number": 4,
+      "content": "So after I have said these words, if you cannot understand them, it is because you do not ask or knock. So you are not brought into the light. You must die in the dark."
+    },
+    {
+      "number": 5,
+      "content": "Again I tell you, if you will enter the right way and receive the Holy Ghost, it will show you everything you should do."
+    },
+    {
+      "number": 6,
+      "content": "This is the teaching of Christ. There will be no more teaching given until he shows himself to you in person. When he shows himself to you in person, you must do the things he tells you."
+    },
+    {
+      "number": 7,
+      "content": "I, Nephi, cannot say more. The Spirit stops me from speaking. I am left to be sad because of people's unbelief, wickedness, and lack of understanding. They are too stubborn. They will not search for knowledge or understand great knowledge when it is given to them as clearly as words can be."
+    },
+    {
+      "number": 8,
+      "content": "My dear brothers, I can tell you are still wondering in your hearts. It makes me sad that I must talk about this. If you would listen to the Spirit that teaches a person to pray, you would know that you must pray. The evil spirit does not teach a person to pray. It teaches him not to pray."
+    },
+    {
+      "number": 9,
+      "content": "I tell you that you must pray always and not give up. You must not do anything for the Lord without first praying to the Father in the name of Christ. Ask him to bless what you do. Then what you do will be for the good of your soul."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "The Words of Christ",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "text": "Pray Always",
+        "level": 3,
+        "sortOrder": 2
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "book": "Jacob",
+  "chapter": 3,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Jacob, want to speak to those who have pure hearts. Look to God with a strong mind. Pray to him with great faith. He will comfort you in your troubles. He will defend you. He will bring justice on those who want to destroy you."
+    },
+    {
+      "number": 2,
+      "content": "All of you with pure hearts, lift up your heads. Receive God's wonderful word. Enjoy his love. You can do this forever if your minds stay strong."
+    },
+    {
+      "number": 3,
+      "content": "But trouble will come to those whose hearts are not pure. You are dirty before God today. Unless you change your ways, the land will be cursed because of you. The Lamanites are not as dirty as you. They have been cursed. But they will attack you until you are destroyed."
+    },
+    {
+      "number": 4,
+      "content": "The time is coming quickly. Unless you change your ways, they will take your land. The Lord God will lead the good people away from you."
+    },
+    {
+      "number": 5,
+      "content": "You hate your Lamanite brothers because of their dirty ways and dark skin. But they are better than you. They have not forgotten the Lord's commandment given to our fathers. They should have only one wife. They should not have other women. They should not do sexual sins."
+    },
+    {
+      "number": 6,
+      "content": "They keep this commandment. Because they obey it, the Lord God will not destroy them. He will be kind to them. One day they will become a blessed people."
+    },
+    {
+      "number": 7,
+      "content": "Their husbands love their wives. Their wives love their husbands. They both love their children. They don't believe in God and hate you because of what their fathers did wrong. So how are you better than them in God's eyes?"
+    },
+    {
+      "number": 8,
+      "content": "My brothers, I am afraid for you. Unless you change your ways, their skin will be whiter than yours. This will happen when you stand with them before God."
+    },
+    {
+      "number": 9,
+      "content": "So I give you a commandment from God. Don't speak badly about them because of their dark skin. Don't speak badly about their dirty ways. Remember your own dirty ways. Remember that they became dirty because of their fathers."
+    },
+    {
+      "number": 10,
+      "content": "Remember your children. You have made their hearts sad by your bad example. Remember that your dirty ways might destroy your children. Their sins will be blamed on you at the last day."
+    },
+    {
+      "number": 11,
+      "content": "My brothers, listen to my words. Wake up your souls. Shake yourselves. Wake up from the sleep of death. Free yourselves from the pains of hell. Don't become angels to the Devil. Don't be thrown into the lake of fire. That is the second death."
+    },
+    {
+      "number": 12,
+      "content": "I said many more things to Nephi's people. I warned them against sexual sins and every kind of sin. I told them the terrible things that would happen because of these sins."
+    },
+    {
+      "number": 13,
+      "content": "I can't write even one percent of what this people did. They had become many people. But many of their stories are written on the larger plates. Their wars, fights, and the rules of their kings are written there."
+    },
+    {
+      "number": 14,
+      "content": "These plates are called the plates of Jacob. Nephi made them with his own hands. I end my words here."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Words to the Pure in Heart",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "text": "Warning to the Wicked",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "The Lamanites Are More Righteous",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "text": "Remember Your Own Sins",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "text": "Jacob Ends His Words",
+        "level": 3,
+        "sortOrder": 5
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}

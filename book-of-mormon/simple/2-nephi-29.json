@@ -1,0 +1,117 @@
+{
+  "book": "2 Nephi",
+  "chapter": 29,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Many people will see when I do an amazing work among them. I will do this to remember my promises to all people. I will work again to bring back my people of Israel."
+    },
+    {
+      "number": 2,
+      "content": "I will also remember the promises I made to you, Nephi, and to your father. I promised I would remember your children. Your children's words will come from my mouth to them. My words will spread to every part of the earth. They will be a sign to my people of Israel."
+    },
+    {
+      "number": 3,
+      "content": "Because my words will spread, many people will say: \"A Bible! A Bible! We have a Bible! There cannot be any more Bible.\""
+    },
+    {
+      "number": 4,
+      "content": "But the Lord God says: \"You are foolish! You will have a Bible. It came from the Jews, my old promise people. Do you thank the Jews for the Bible you got from them? Do you remember their travels and hard work? Do you remember how hard they worked for me to bring salvation to you?\""
+    },
+    {
+      "number": 5,
+      "content": "\"You people, have you remembered the Jews, my old promise people? No. You have cursed them and hated them. You have not tried to help them. But I will turn all these things back on you. I the Lord have not forgotten my people.\""
+    },
+    {
+      "number": 6,
+      "content": "\"You fool who says: 'A Bible! We have a Bible! We don't need any more Bible.' Did you get a Bible any other way than from the Jews?\""
+    },
+    {
+      "number": 7,
+      "content": "\"Don't you know there is more than one nation? Don't you know that I, the Lord your God, created all people? I remember those on the islands of the sea. I rule in heaven above and on earth below. I give my word to all people in every nation on earth.\""
+    },
+    {
+      "number": 8,
+      "content": "\"Why do you complain because you will get more of my word? Don't you know that two nations telling you something proves I am God? I remember one nation just like another. So I speak the same words to one nation as to another. When the two nations come together, their stories will come together too.\""
+    },
+    {
+      "number": 9,
+      "content": "\"I do this to prove to many people that I am the same yesterday, today, and forever. I speak my words as I choose. Just because I have spoken one word, don't think I cannot speak another. My work is not finished yet. It won't be finished until the end of time.\""
+    },
+    {
+      "number": 10,
+      "content": "\"So just because you have a Bible, don't think it has all my words. Don't think I haven't had more written.\""
+    },
+    {
+      "number": 11,
+      "content": "\"I tell all people everywhere to write the words I speak to them. This includes people in the east, west, north, south, and on the islands. From the books that will be written, I will judge the world. I will judge every person by their actions, based on what is written.\""
+    },
+    {
+      "number": 12,
+      "content": "\"I will speak to the Jews, and they will write it. I will speak to the Nephites, and they will write it. I will speak to the other tribes of Israel that I led away, and they will write it. I will speak to all nations on earth, and they will write it.\""
+    },
+    {
+      "number": 13,
+      "content": "\"Then the Jews will have the words of the Nephites. The Nephites will have the words of the Jews. The Nephites and Jews will have the words of the lost tribes of Israel. The lost tribes of Israel will have the words of the Nephites and Jews.\""
+    },
+    {
+      "number": 14,
+      "content": "\"Then my people of Israel will be gathered home to their own lands. My word will also be gathered in one place. I will show those who fight against my word and my people of Israel that I am God. I will show them I promised Abraham that I would remember his children forever.\""
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "God Will Do an Amazing Work",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "text": "People Will Reject More Scripture",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "text": "God Speaks to All Nations",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "text": "All Nations Will Share God's Words",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}

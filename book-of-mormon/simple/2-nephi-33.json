@@ -1,0 +1,121 @@
+{
+  "book": "2 Nephi",
+  "chapter": 33,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, cannot write all the things my people were taught. I am not as good at writing as I am at speaking. When someone speaks by the power of the Holy Ghost, that power carries it to people's hearts."
+    },
+    {
+      "number": 2,
+      "content": "But many people make their hearts hard against the Holy Spirit. It has no place in them. So they throw away many written things. They think these things don't matter."
+    },
+    {
+      "number": 3,
+      "content": "But I have written what I have written. I think it is very important, especially for my people. I pray for them all the time during the day. My tears wet my pillow at night because of them. I cry to my God in faith. I know he will hear my cry."
+    },
+    {
+      "number": 4,
+      "content": "I know the Lord God will make my prayers help my people. The things I have written in weakness will be made strong for them. My writings tell them to do good. They teach them about their ancestors. They speak of Jesus and tell people to believe in him and keep going to the end. That is eternal life."
+    },
+    {
+      "number": 5,
+      "content": "My writings speak harshly against sin. They tell the plain truth. No one will be angry at the words I have written unless they have the spirit of the devil."
+    },
+    {
+      "number": 6,
+      "content": "I am proud of being plain. I am proud of truth. I am proud of my Jesus. He has saved my soul from hell."
+    },
+    {
+      "number": 7,
+      "content": "I love my people. I have great faith in Christ. I will meet many clean souls at his judgment seat."
+    },
+    {
+      "number": 8,
+      "content": "I love the Jewish people. I say Jewish because I mean the people I came from."
+    },
+    {
+      "number": 9,
+      "content": "I also love the Gentiles. But I cannot hope for any of these people unless they make peace with Christ. They must enter through the narrow gate. They must walk on the straight path that leads to life. They must stay on the path until the end of their test."
+    },
+    {
+      "number": 10,
+      "content": "My dear brothers, Jewish people, and all people everywhere, listen to these words. Believe in Christ. If you don't believe these words, believe in Christ."
+    },
+    {
+      "number": 11,
+      "content": "If you believe in Christ, you will believe these words. They are the words of Christ. He gave them to me. They teach all people to do good."
+    },
+    {
+      "number": 12,
+      "content": "If they are not the words of Christ, you judge. Christ will show you with power and great glory that they are his words on the last day. You and I will stand face to face before his court. You will know that he commanded me to write these things even though I am weak."
+    },
+    {
+      "number": 13,
+      "content": "I pray to the Father in the name of Christ. I pray that many of us, if not all, may be saved in his kingdom on that great and last day."
+    },
+    {
+      "number": 14,
+      "content": "My dear brothers, all who are of the House of Israel, and all people everywhere, I speak to you. I am like a voice crying from the dust. Goodbye until that great day comes."
+    },
+    {
+      "number": 15,
+      "content": "You who will not accept God's goodness and respect the words of the Jews, my words, and the words that come from the Lamb of God, I say goodbye forever. These words will condemn you at the last day. What I seal on earth will be brought against you at the judgment court. The Lord commanded me to do this. I must obey. Amen."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Nephi's Final Message",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "Nephi's Love for His People",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "Believe in Christ",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "text": "Nephi's Farewell",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}

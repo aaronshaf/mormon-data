@@ -1,0 +1,108 @@
+{
+  "book": "2 Nephi",
+  "chapter": 16,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "King Uzziah died that year. I saw the Lord sitting on a high throne. His robe filled the temple."
+    },
+    {
+      "number": 2,
+      "content": "Angels called seraphim stood above him. Each one had six wings. They used two wings to cover their faces. They used two wings to cover their feet. They used two wings to fly."
+    },
+    {
+      "number": 3,
+      "content": "One angel called to another. They said: \"Holy, holy, holy is the Lord of armies. The whole earth is full of his glory.\""
+    },
+    {
+      "number": 4,
+      "content": "The door frames shook when they called out. The temple was filled with smoke."
+    },
+    {
+      "number": 5,
+      "content": "Then I said: \"I am in trouble! I say bad things with my mouth. I live with people who say bad things. And I have seen the King, the Lord of armies.\""
+    },
+    {
+      "number": 6,
+      "content": "Then one of the seraphim flew to me. He had a hot coal in his hand. He had taken it from the altar with tongs."
+    },
+    {
+      "number": 7,
+      "content": "He touched my mouth with it. He said: \"Look, this has touched your lips. Your wrong is taken away. Your sin is gone.\""
+    },
+    {
+      "number": 8,
+      "content": "I also heard the Lord's voice. He said: \"Who should I send? Who will go for us?\" Then I said: \"Here I am. Send me.\""
+    },
+    {
+      "number": 9,
+      "content": "He said: \"Go and tell these people: 'You will listen but not understand. You will see but not know what you see.'\""
+    },
+    {
+      "number": 10,
+      "content": "\"Make their hearts stubborn. Make their ears deaf. Close their eyes. Or they might see with their eyes. They might hear with their ears. They might understand with their hearts. Then they might turn back and be healed.\""
+    },
+    {
+      "number": 11,
+      "content": "Then I asked: \"Lord, how long will this last?\" He said: \"Until the cities are empty. Until no one lives in the houses. Until the land is completely empty.\""
+    },
+    {
+      "number": 12,
+      "content": "\"The Lord will send the people far away. There will be many empty places in the land.\""
+    },
+    {
+      "number": 13,
+      "content": "\"But one in ten people will still be there. They will come back and be destroyed. Like a big tree that drops its leaves. The holy children will be like new growth from that tree.\""
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Isaiah Sees the Lord",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "Isaiah's Sin Is Taken Away",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "text": "God Sends Isaiah to the People",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "text": "The Land Will Be Empty",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 3
+      }
+    ]
+  }
+}

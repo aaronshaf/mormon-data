@@ -1,0 +1,142 @@
+{
+  "book": "Jacob",
+  "chapter": 1,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Fifty-five years had passed since Lehi left Jerusalem. Then Nephi told me, Jacob, what to write on the small plates."
+    },
+    {
+      "number": 2,
+      "content": "He told me to write only the most important things on these plates. He said not to write much about the history of our people, the Nephites."
+    },
+    {
+      "number": 3,
+      "content": "He said the history of our people should be written on his other plates. He told me to keep these plates safe. I should give them to my children, and they should give them to their children."
+    },
+    {
+      "number": 4,
+      "content": "If there was important preaching, or great messages from God, or prophecies, I should write the main points on these plates. I should write as much as I could for Christ and for our people."
+    },
+    {
+      "number": 5,
+      "content": "Because of our faith and great worry, God showed us what would happen to our people."
+    },
+    {
+      "number": 6,
+      "content": "We also had many messages from God and the gift of prophecy. So we knew about Christ and his kingdom that would come."
+    },
+    {
+      "number": 7,
+      "content": "So we worked hard among our people. We tried to get them to come to Christ and share in God's goodness. We wanted them to enter his rest. We didn't want God to be angry with them like he was with the Israelites in the wilderness."
+    },
+    {
+      "number": 8,
+      "content": "We wish we could get all people not to rebel against God or make him angry. We want all people to believe in Christ. We want them to think about his death, carry his cross, and bear the world's shame. So I will do what my brother Nephi asked me to do."
+    },
+    {
+      "number": 9,
+      "content": "Nephi was getting old. He knew he would die soon. So he chose a man to be king and ruler over his people."
+    },
+    {
+      "number": 10,
+      "content": "The people loved Nephi very much. He had protected them. He had fought for them with Laban's sword. He had worked all his life for their good."
+    },
+    {
+      "number": 11,
+      "content": "So the people wanted to remember his name. Whoever became king after him was called Second Nephi, Third Nephi, and so on. That's what the people called them, no matter what their real names were."
+    },
+    {
+      "number": 12,
+      "content": "Then Nephi died."
+    },
+    {
+      "number": 13,
+      "content": "The people who were not Lamanites were Nephites. But they had different family names: Nephites, Jacobites, Josephites, Zoramites, Lamanites, Lemuelites, and Ishmaelites."
+    },
+    {
+      "number": 14,
+      "content": "But I won't use all these names anymore. I'll call the people who try to destroy the Nephites \"Lamanites.\" I'll call the people who are friendly to Nephi \"Nephites\" or \"the people of Nephi.\""
+    },
+    {
+      "number": 15,
+      "content": "Under the second king, the Nephites began to have hard hearts. They started doing bad things. Like King David long ago, they wanted many wives. Solomon his son did the same thing."
+    },
+    {
+      "number": 16,
+      "content": "They also began to look for gold and silver. They became proud."
+    },
+    {
+      "number": 17,
+      "content": "So I taught them these words in the temple. But first I asked the Lord what to say."
+    },
+    {
+      "number": 18,
+      "content": "My brother Joseph and I had been made priests and teachers of these people by Nephi."
+    },
+    {
+      "number": 19,
+      "content": "We did our job for the Lord with all our might. We took responsibility for the people's sins. If we didn't teach them God's word carefully, their sins would be our fault. But if we worked hard, their sins would not be our fault. Then we would be clean on the last day."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Jacob Gets the Plates",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "Jacob and Joseph Know About Christ",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "text": "Nephi Dies and a New King Rules",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "text": "The People Start to Sin",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "sortOrder": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "book": "2 Nephi",
+  "chapter": 19,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "But the troubles will not be as bad as before. First God punished the lands of Zebulun and Naphtali a little. Later he punished them more near the Red Sea. This was beyond the Jordan River in Galilee."
+    },
+    {
+      "number": 2,
+      "content": "The people who walked in darkness have seen a great light. Light has shined on those who lived in the land of death."
+    },
+    {
+      "number": 3,
+      "content": "You have made the nation bigger. You have made them happier. They are happy in front of you like people at harvest time. They are happy like people who share what they won in battle."
+    },
+    {
+      "number": 4,
+      "content": "You have broken the heavy load they carried. You have broken the stick on their shoulders. You have broken the rod of those who hurt them."
+    },
+    {
+      "number": 5,
+      "content": "Every warrior's battle is loud and bloody. But this battle will be different. It will be with burning fire."
+    },
+    {
+      "number": 6,
+      "content": "A child is born for us. A son is given to us. The government will be on his shoulders. His name will be called Wonderful, Counselor, The Mighty God, The Father Forever, The Prince of Peace."
+    },
+    {
+      "number": 7,
+      "content": "His government and peace will never end. He will sit on David's throne and rule his kingdom. He will make it strong with fairness and justice forever. The Lord of armies will make this happen."
+    },
+    {
+      "number": 8,
+      "content": "The Lord sent his word to Jacob. It came to Israel."
+    },
+    {
+      "number": 9,
+      "content": "All the people will know about it. The people of Ephraim and Samaria will know. They are proud and say:"
+    },
+    {
+      "number": 10,
+      "content": "\"The bricks have fallen down. But we will build with cut stones. The sycamore trees are cut down. But we will plant cedar trees instead.\""
+    },
+    {
+      "number": 11,
+      "content": "So the Lord will bring Rezin's enemies against them. He will bring all their enemies together."
+    },
+    {
+      "number": 12,
+      "content": "The Syrians will come from the front. The Philistines will come from behind. They will destroy Israel with open mouths. But God is still angry. His hand is still raised to punish."
+    },
+    {
+      "number": 13,
+      "content": "The people do not turn back to God who punishes them. They do not look for the Lord of armies."
+    },
+    {
+      "number": 14,
+      "content": "So the Lord will cut off Israel's head and tail in one day. He will cut off the branch and the rush."
+    },
+    {
+      "number": 15,
+      "content": "The old leader is the head. The prophet who teaches lies is the tail."
+    },
+    {
+      "number": 16,
+      "content": "The leaders of these people make them go wrong. Those who follow them are destroyed."
+    },
+    {
+      "number": 17,
+      "content": "So the Lord will not be happy with their young men. He will not have mercy on their orphans and widows. Everyone is a liar and does evil. Every mouth speaks foolish things. But God is still angry. His hand is still raised to punish."
+    },
+    {
+      "number": 18,
+      "content": "Evil burns like fire. It destroys the thorns and bushes. It burns in the thick forests. The smoke rises up."
+    },
+    {
+      "number": 19,
+      "content": "The Lord of armies is angry. The land becomes dark. The people become like fuel for the fire. No one will help his brother."
+    },
+    {
+      "number": 20,
+      "content": "They will grab food on the right but still be hungry. They will eat on the left but not be satisfied. Each person will eat the flesh of his own arm."
+    },
+    {
+      "number": 21,
+      "content": "Manasseh will fight Ephraim. Ephraim will fight Manasseh. Together they will fight against Judah. But God is still angry. His hand is still raised to punish."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Light After Darkness",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "A Child Will Be Born",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "text": "Israel's Pride and Punishment",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "text": "Evil Destroys the Nation",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}
