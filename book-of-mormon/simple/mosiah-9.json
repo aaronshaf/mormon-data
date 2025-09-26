@@ -1,0 +1,137 @@
+{
+  "book": "Mosiah",
+  "chapter": 9,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Zeniff, learned the Nephite language. I knew about the land of Nephi. That was the land where our fathers first lived. I was sent as a spy to watch the Lamanites. Our army wanted to know how strong they were so we could destroy them. But when I saw good things about them, I didn't want them to be destroyed."
+    },
+    {
+      "number": 2,
+      "content": "So I argued with my brothers in the wilderness. I wanted our ruler to make peace with them. But he was mean and loved to fight. He told his men to kill me. But I was saved, though many people died in the fighting. Father fought against father and brother fought against brother. Most of our army died in the wilderness. Those of us who lived went back to Zarahemla. We had to tell our wives and children what happened."
+    },
+    {
+      "number": 3,
+      "content": "But I really wanted to live in the land of our fathers. I gathered everyone who wanted to go back to that land. We started our trip through the wilderness again. But we got very hungry and had many troubles. We were slow to remember the Lord our God."
+    },
+    {
+      "number": 4,
+      "content": "After many days of walking in the wilderness, we set up our tents. We camped where our brothers had been killed. This was close to the land of our fathers."
+    },
+    {
+      "number": 5,
+      "content": "Then I went to the city with four of my men. We went to see the king. I wanted to know what the king was thinking. I wanted to know if my people could come and live in the land in peace."
+    },
+    {
+      "number": 6,
+      "content": "I went to see the king. He made a promise with me. He said I could have the land of Lehi-Nephi and the land of Shilom."
+    },
+    {
+      "number": 7,
+      "content": "He also told his people to leave the land. Then my people and I went into the land to live there."
+    },
+    {
+      "number": 8,
+      "content": "We started to build buildings. We fixed the walls of the city. We worked on the walls of Lehi-Nephi city and Shilom city."
+    },
+    {
+      "number": 9,
+      "content": "We started to plant crops. We planted all kinds of seeds. We planted corn, wheat, and barley. We planted neas and sheum and seeds for all kinds of fruit. We started to grow in number and do well in the land."
+    },
+    {
+      "number": 10,
+      "content": "King Laman was tricky and sneaky. He wanted to make my people slaves. That's why he let us have the land."
+    },
+    {
+      "number": 11,
+      "content": "So after we lived in the land for twelve years, King Laman got worried. He was afraid my people would get too strong. He was afraid he couldn't beat us and make us slaves."
+    },
+    {
+      "number": 12,
+      "content": "The Lamanites were lazy people who worshiped fake gods. They wanted to make us slaves. They wanted to eat the food we worked hard to grow. They wanted to take our animals for themselves."
+    },
+    {
+      "number": 13,
+      "content": "So King Laman got his people angry at my people. Wars and fighting started in the land."
+    },
+    {
+      "number": 14,
+      "content": "In the thirteenth year that I ruled in the land of Nephi, something bad happened. It was south of the land of Shilom. My people were giving water to their animals and taking care of their crops. A big army of Lamanites came and attacked them. They killed some of my people and took their animals and food."
+    },
+    {
+      "number": 15,
+      "content": "All the people who could get away ran to the city of Nephi. They asked me to protect them."
+    },
+    {
+      "number": 16,
+      "content": "So I gave them weapons. I gave them bows and arrows, swords and other weapons, clubs and slings. We made all kinds of weapons we could think of. My people and I went out to fight the Lamanites."
+    },
+    {
+      "number": 17,
+      "content": "We went to battle with the Lord's strength. My people and I prayed hard to the Lord. We asked Him to save us from our enemies. We remembered how He had saved our fathers before."
+    },
+    {
+      "number": 18,
+      "content": "God heard us praying and answered our prayers. We went out to fight with His power. We fought against the Lamanites. In one day and one night, we killed 3,043 of them. We kept fighting until we pushed them out of our land."
+    },
+    {
+      "number": 19,
+      "content": "I helped bury their dead with my own hands. We were very sad because 279 of our brothers died too."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Zeniff Tells His Story",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "Making Peace with King Laman",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "King Laman's Sneaky Plan",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "text": "The Lamanites Attack",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}

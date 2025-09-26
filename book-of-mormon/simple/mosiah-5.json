@@ -1,0 +1,121 @@
+{
+  "book": "Mosiah",
+  "chapter": 5,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "After King Benjamin finished speaking to his people, he sent messengers to ask them a question. He wanted to know if they believed the words he had spoken to them."
+    },
+    {
+      "number": 2,
+      "content": "All the people shouted together: \"Yes, we believe all the words you have spoken to us! We know they are true because of the Spirit of the Lord God. He has made a big change in us and in our hearts. We don't want to do bad things anymore. We only want to do good things.\""
+    },
+    {
+      "number": 3,
+      "content": "\"Because God is so good to us, and because his Spirit shows us things, we can see what will happen in the future. If we needed to, we could tell about all things that will come.\""
+    },
+    {
+      "number": 4,
+      "content": "\"Our faith in the things our king has told us has given us this great knowledge. That's why we are so very happy.\""
+    },
+    {
+      "number": 5,
+      "content": "\"We want to make a promise to God. We promise to do what he wants and obey his commands in everything he tells us for the rest of our lives. We don't want to suffer forever like the angel said would happen. We don't want to drink from the cup of God's anger.\""
+    },
+    {
+      "number": 6,
+      "content": "These were the words King Benjamin wanted to hear from them. So he said to them: \"You have said exactly what I wanted you to say. The promise you have made is a good promise.\""
+    },
+    {
+      "number": 7,
+      "content": "\"Because of the promise you have made, you will be called the children of Christ. You are his sons and daughters. Today he has made you his children in a spiritual way. You say your hearts have changed because you have faith in his name. So you are born from him and have become his sons and daughters.\""
+    },
+    {
+      "number": 8,
+      "content": "\"Under Christ, you are made free. There is no other leader who can make you free. There is no other name that can save you. So I want all of you who have made this promise with God to take Christ's name. You should obey him for your whole life.\""
+    },
+    {
+      "number": 9,
+      "content": "\"Anyone who does this will be found at the right hand of God. He will know the name he is called by. He will be called by the name of Christ.\""
+    },
+    {
+      "number": 10,
+      "content": "\"But anyone who does not take Christ's name will be called by some other name. That person will find himself on the left hand of God.\""
+    },
+    {
+      "number": 11,
+      "content": "\"I want you to remember that this is the name I said I would give you. It will never be erased unless you do wrong. So be careful not to sin, so the name won't be erased from your hearts.\""
+    },
+    {
+      "number": 12,
+      "content": "\"I tell you to remember to keep the name written always in your hearts. Then you won't be found on the left hand of God. You will hear and know the voice that calls you. You will also know the name he calls you by.\""
+    },
+    {
+      "number": 13,
+      "content": "\"How can someone know a master he has never served? How can he know someone who is a stranger to him and far from his thoughts and feelings?\""
+    },
+    {
+      "number": 14,
+      "content": "\"Let me ask you this: Does a man take his neighbor's donkey and keep it? No! He won't even let it eat with his own animals. Instead, he will drive it away and send it out. I tell you, the same thing will happen to you if you don't know the name you are called by.\""
+    },
+    {
+      "number": 15,
+      "content": "\"So I want you to be strong and never give up. Always do good works. Then Christ, the Lord God who has all power, will make you his own. You will be brought to heaven. You will be saved forever and have eternal life. This comes through the wisdom, power, justice, and mercy of him who created all things in heaven and on earth. He is God above all. Amen.\""
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "The People's Response",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "King Benjamin's Answer",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "text": "Becoming Children of Christ",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "text": "Remember Christ's Name",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}

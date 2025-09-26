@@ -1,0 +1,72 @@
+{
+  "book": "Mosiah",
+  "chapter": 6,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "King Benjamin thought it was a good idea to write down the names of all the people who promised God they would obey his rules."
+    },
+    {
+      "number": 2,
+      "content": "Everyone promised God they would obey him and follow Christ. Only the little children did not make this promise."
+    },
+    {
+      "number": 3,
+      "content": "When King Benjamin finished everything, he made his son Mosiah the new king. He told Mosiah how to rule the people. He also chose priests to teach the people God's rules and to help them remember their promise. Then he sent all the people back to their homes."
+    },
+    {
+      "number": 4,
+      "content": "Mosiah became king when his father stopped being king. He was thirty years old when he became king. This was about 476 years after Lehi left Jerusalem."
+    },
+    {
+      "number": 5,
+      "content": "King Benjamin lived three more years. Then he died."
+    },
+    {
+      "number": 6,
+      "content": "King Mosiah obeyed the Lord. He followed God's rules and did everything God told him to do."
+    },
+    {
+      "number": 7,
+      "content": "King Mosiah told his people to work in their fields and grow food. He worked in the fields too. He did not want to be a burden to his people. He wanted to do the same good things his father had done. All his people got along well for three years. They did not fight with each other."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Writing Down the Names",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "Mosiah Becomes King",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "A Good King",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 2
+      }
+    ]
+  }
+}

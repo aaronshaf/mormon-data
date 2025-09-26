@@ -1,0 +1,171 @@
+{
+  "book": "Mosiah",
+  "chapter": 10,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "We started to build our kingdom again. We lived in peace on our land. I made sure we had all kinds of weapons for when the Lamanites would come to fight us again."
+    },
+    {
+      "number": 2,
+      "content": "I put guards all around our land. This way the Lamanites could not sneak up on us and kill us. I protected my people and our animals from our enemies."
+    },
+    {
+      "number": 3,
+      "content": "We lived on the land of our fathers for many years. We lived there for twenty-two years."
+    },
+    {
+      "number": 4,
+      "content": "I had the men farm the ground. They grew all kinds of grain and fruit."
+    },
+    {
+      "number": 5,
+      "content": "I had the women spin thread and work hard. They made all kinds of nice cloth so we could have clothes to wear. We did well in the land. We had peace for twenty-two years."
+    },
+    {
+      "number": 6,
+      "content": "King Laman died. His son became king instead. The new king got his people angry at my people. So they got ready for war and came to fight us."
+    },
+    {
+      "number": 7,
+      "content": "But I had sent spies around the land of Shemlon. I wanted to find out what they were planning. This way I could protect my people from being killed."
+    },
+    {
+      "number": 8,
+      "content": "They came up north of the land of Shilom with many soldiers. The men had bows, arrows, swords, curved swords, stones, and slings. They had shaved heads and were almost naked. They only wore leather belts around their waists."
+    },
+    {
+      "number": 9,
+      "content": "I had the women and children hide in the wilderness. I gathered all the old men who could fight and all the young men who could fight. We got ready to battle the Lamanites. I put each man in line by his age."
+    },
+    {
+      "number": 10,
+      "content": "We went to fight the Lamanites. Even though I was old, I went to battle too. We went to fight with the Lord's strength helping us."
+    },
+    {
+      "number": 11,
+      "content": "The Lamanites did not know about the Lord or his power. So they only trusted in their own strength. But they were strong men."
+    },
+    {
+      "number": 12,
+      "content": "They were wild, mean, and violent people. They believed the stories their fathers told them. They believed they were forced to leave Jerusalem because their fathers did bad things. They thought their brothers treated them badly in the wilderness and on the sea."
+    },
+    {
+      "number": 13,
+      "content": "They also thought they were treated badly in their first land after crossing the sea. All of this happened because Nephi obeyed God's commands better. So the Lord helped Nephi. The Lord heard Nephi's prayers and answered them. Nephi led them through the wilderness."
+    },
+    {
+      "number": 14,
+      "content": "His brothers were angry at him because they did not understand how God works. They were also angry at him on the boat because they would not listen to the Lord."
+    },
+    {
+      "number": 15,
+      "content": "They were angry when they got to the promised land. They said Nephi took control of the people away from them. They tried to kill him."
+    },
+    {
+      "number": 16,
+      "content": "They were angry because he went into the wilderness like the Lord told him to. He took the metal plates with writing on them. They said he stole them."
+    },
+    {
+      "number": 17,
+      "content": "So they taught their children to hate Nephi's people. They taught them to kill, steal from, and hurt them. They taught them to do everything they could to destroy them. So they will always hate Nephi's children."
+    },
+    {
+      "number": 18,
+      "content": "This is why King Laman tricked me with his lies and false promises. He got me to bring my people to this land so he could destroy them. We have suffered in this land for many years."
+    },
+    {
+      "number": 19,
+      "content": "After I told my people all these things about the Lamanites, I got them excited to fight hard. I told them to trust in the Lord. So we fought them face to face."
+    },
+    {
+      "number": 20,
+      "content": "We drove them out of our land again. We killed so many of them that we did not count them all."
+    },
+    {
+      "number": 21,
+      "content": "We went back to our own land. My people started taking care of their animals and farming again."
+    },
+    {
+      "number": 22,
+      "content": "I was getting old, so I made one of my sons the new king. So I have nothing more to say. May the Lord bless my people. Amen."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Building the Kingdom in Peace",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "King Laman's Son Prepares for War",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "text": "Getting Ready to Fight",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "text": "Why the Lamanites Hate Nephi's People",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "text": "The Battle and Victory",
+        "level": 3,
+        "sortOrder": 5
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "sortOrder": 6
+      },
+      {
+        "verseNumber": 22,
+        "position": "before_verse",
+        "sortOrder": 7
+      }
+    ]
+  }
+}

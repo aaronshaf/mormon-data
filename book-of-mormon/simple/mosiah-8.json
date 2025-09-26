@@ -1,0 +1,143 @@
+{
+  "book": "Mosiah",
+  "chapter": 8,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "After King Limhi finished talking to his people, he told them everything about their relatives who lived in Zarahemla. He had said many things to them, but only a few are written in this book."
+    },
+    {
+      "number": 2,
+      "content": "He asked Ammon to stand up in front of the crowd. Ammon told them everything that happened to their relatives from the time Zeniff left the land until Ammon came to them."
+    },
+    {
+      "number": 3,
+      "content": "Ammon also told them the last words that King Benjamin had taught. He explained them to King Limhi's people so they could understand everything he said."
+    },
+    {
+      "number": 4,
+      "content": "After he finished all this, King Limhi sent the crowd home. Everyone went back to their own house."
+    },
+    {
+      "number": 5,
+      "content": "Then the king had the plates brought to Ammon. These plates had the record of his people from the time they left Zarahemla. He wanted Ammon to read them."
+    },
+    {
+      "number": 6,
+      "content": "As soon as Ammon read the record, the king asked him if he could translate languages. Ammon told him that he could not."
+    },
+    {
+      "number": 7,
+      "content": "The king said to him: \"I was sad about my people's troubles. So I sent 43 of my people on a trip into the wilderness. I wanted them to find Zarahemla so we could ask our relatives to free us from slavery.\""
+    },
+    {
+      "number": 8,
+      "content": "\"They got lost in the wilderness for many days. They worked hard to find Zarahemla but could not. They came back to this land. They had traveled through a land with many waters. They found a land covered with bones of people and animals. It was also covered with broken-down buildings of every kind. They found a land where many people used to live. There were as many people as the armies of Israel.\""
+    },
+    {
+      "number": 9,
+      "content": "\"To prove what they said is true, they brought back 24 gold plates. The plates are covered with writing.\""
+    },
+    {
+      "number": 10,
+      "content": "\"They also brought large chest plates made of brass and copper. They are in perfect condition.\""
+    },
+    {
+      "number": 11,
+      "content": "\"They brought swords too. The handles have rotted away and the blades are rusty. No one in our land can translate the language or the writing on the plates. So I asked you: Can you translate?\""
+    },
+    {
+      "number": 12,
+      "content": "\"Let me ask you again: Do you know anyone who can translate? I want these records translated into our language. Maybe they will teach us about some of the people who were destroyed. Maybe they will tell us about the very people who were destroyed. I want to know why they were destroyed.\""
+    },
+    {
+      "number": 13,
+      "content": "Ammon said to him: \"I can tell you about a man who can translate the records, O king. He has something he can look through to translate all old records. It is a gift from God. These things are called interpreters. No one can look through them unless God tells them to. If someone looks when they shouldn't, they will die. Anyone who is told to look through them is called a seer.\""
+    },
+    {
+      "number": 14,
+      "content": "\"The king of the people in Zarahemla is the man God told to do these things. He has this special gift from God.\""
+    },
+    {
+      "number": 15,
+      "content": "The king said: \"A seer is greater than a prophet.\""
+    },
+    {
+      "number": 16,
+      "content": "Ammon said: \"A seer is someone who gets messages from God. He is also a prophet. No one can have a greater gift unless they have God's power, which no one can have. But God can give someone great power.\""
+    },
+    {
+      "number": 17,
+      "content": "\"But a seer can know about things that happened before and things that will happen. Through them, all things will be shown. Secret things will be made clear. Hidden things will come into the light. Things that are not known will be made known through them. They will make known things that could not be known any other way.\""
+    },
+    {
+      "number": 18,
+      "content": "\"This is how God has made a way for people to do great miracles through faith. So a seer becomes a great help to other people.\""
+    },
+    {
+      "number": 19,
+      "content": "When Ammon finished saying these words, the king was very happy. He thanked God and said: \"There must be a great mystery in these plates. These interpreters were made to help people understand all these mysteries.\""
+    },
+    {
+      "number": 20,
+      "content": "\"How amazing are the works of the Lord! How patient he is with his people! But how blind people are! They will not look for wisdom. They do not want wisdom to guide them.\""
+    },
+    {
+      "number": 21,
+      "content": "\"They are like wild sheep that run away from their shepherd. They scatter and are driven away. Then wild animals eat them.\""
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "The Mystery Plates",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "text": "Ammon Explains About Seers",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "text": "The King Is Happy",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "sortOrder": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "book": "Mosiah",
+  "chapter": 1,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "There was no more fighting in all the land of Zarahemla among all the people who belonged to King Benjamin. So King Benjamin had peace for the rest of his life."
+    },
+    {
+      "number": 2,
+      "content": "He had three sons. Their names were Mosiah, Helorum, and Helaman. He made sure they learned the language of their fathers so they would be smart. He wanted them to know about the things God told their fathers."
+    },
+    {
+      "number": 3,
+      "content": "He also taught them about the records written on the brass plates. He said: My sons, I want you to remember something. If we didn't have these plates with these records and God's rules, we would not know anything about God's secrets."
+    },
+    {
+      "number": 4,
+      "content": "Our father Lehi could not have remembered all these things to teach his children without help from these plates. He learned the Egyptian language, so he could read these writings. He taught them to his children so they could teach their children. This is how they followed God's commands down to today."
+    },
+    {
+      "number": 5,
+      "content": "I tell you, my sons, if God had not kept and saved these things for us to read and understand his secrets and always see his commands, even our fathers would have stopped believing. We would be like our brothers, the Lamanites. They know nothing about these things. They don't believe them when people teach them because their fathers taught them wrong things."
+    },
+    {
+      "number": 6,
+      "content": "My sons, I want you to remember that these words are true. These records are also true. Also, the plates of Nephi have the records and words of our fathers from when they left Jerusalem until now. They are true. We know they are true because we can see them."
+    },
+    {
+      "number": 7,
+      "content": "My sons, I want you to remember to study them carefully so you can learn from them. I want you to follow God's commands so you will do well in the land. This is what the Lord promised our fathers."
+    },
+    {
+      "number": 8,
+      "content": "King Benjamin taught his sons many more things that are not written in this book."
+    },
+    {
+      "number": 9,
+      "content": "After King Benjamin finished teaching his sons, he got old. He saw that he would die soon. So he thought he should make one of his sons the king."
+    },
+    {
+      "number": 10,
+      "content": "So he brought Mosiah to him. These are the words he said to him: My son, I want you to tell everyone in this land and all these people - the people of Zarahemla and the people of Mosiah who live in the land - to come together. Tomorrow, I will tell my people that you are a king and ruler over these people that the Lord our God has given us."
+    },
+    {
+      "number": 11,
+      "content": "Also, I will give this people a name so they will be different from all the people the Lord God brought out of Jerusalem. I do this because they have worked hard to follow the Lord's commands."
+    },
+    {
+      "number": 12,
+      "content": "I give them a name that will never be erased unless they do wrong things."
+    },
+    {
+      "number": 13,
+      "content": "Also, I tell you that if these people that the Lord loves do wrong things and become bad and unfaithful people, the Lord will let them become weak like their brothers. He will not protect them anymore with his great power like he has protected our fathers."
+    },
+    {
+      "number": 14,
+      "content": "I tell you, if he had not helped save our fathers, they would have been caught by the Lamanites and killed because of their hate."
+    },
+    {
+      "number": 15,
+      "content": "After King Benjamin finished saying these things to his son, he put him in charge of all the kingdom's business."
+    },
+    {
+      "number": 16,
+      "content": "He also put him in charge of the records written on the brass plates, the plates of Nephi, the sword of Laban, and the ball that showed our fathers the way through the desert. The Lord made this ball to lead them if they paid attention and worked hard to follow him."
+    },
+    {
+      "number": 17,
+      "content": "When they didn't believe, they did not do well or move forward on their trip. They were pushed back and God was not happy with them. So they were hungry and had hard times to help them remember what they should do."
+    },
+    {
+      "number": 18,
+      "content": "Mosiah went and did what his father told him to do. He told all the people in the land of Zarahemla to come together and go to the temple to hear what his father would say to them."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Peace Under King Benjamin",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "text": "The Importance of Sacred Records",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "text": "Choosing the Next King",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}
