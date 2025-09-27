@@ -1,0 +1,185 @@
+{
+  "book": "1 Nephi",
+  "chapter": 18,
+  "edition": "paraphrase",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, worked with my brothers to build the ship. We shaped the wood with great skill, and the Lord showed me exactly how to do it each step of the way."
+    },
+    {
+      "number": 2,
+      "content": "I didn't follow any human blueprints or building methods. I built it exactly the way the Lord showed me—completely different from anything people normally build."
+    },
+    {
+      "number": 3,
+      "content": "I went up the mountain often to pray, and the Lord revealed amazing things to me."
+    },
+    {
+      "number": 4,
+      "content": "When I finished the ship, my brothers saw how good it was—the craftsmanship was exceptional. They humbled themselves before the Lord again."
+    },
+    {
+      "number": 5,
+      "content": "Then the Lord told my father it was time to board the ship."
+    },
+    {
+      "number": 6,
+      "content": "The next day, after we loaded everything—fruit, dried meat from our hunts, lots of honey, and all the provisions the Lord told us to bring—we all boarded the ship. We brought our seeds and everything else we'd gathered, and everyone got on board—wives, children, everyone according to their age."
+    },
+    {
+      "number": 7,
+      "content": "My father had two more sons in the wilderness: Jacob, the older one, and Joseph."
+    },
+    {
+      "number": 8,
+      "content": "Once everyone was aboard with our supplies and everything the Lord commanded us to bring, we set sail. The wind drove us toward the promised land."
+    },
+    {
+      "number": 9,
+      "content": "After many days at sea, my brothers and Ishmael's sons—along with their wives—started partying. They danced, sang crude songs, and acted completely out of control. They forgot who had brought them this far and became incredibly vulgar."
+    },
+    {
+      "number": 10,
+      "content": "I was terrified the Lord would be angry and sink us in the ocean because of their behavior. So I tried to talk sense into them. But they got angry and said: \"We're not taking orders from our little brother!\""
+    },
+    {
+      "number": 11,
+      "content": "Laman and Lemuel tied me up with ropes and treated me brutally. But the Lord allowed it to happen to show his power and fulfill what he'd said about the wicked."
+    },
+    {
+      "number": 12,
+      "content": "As soon as they tied me up so I couldn't move, the compass the Lord had given us stopped working."
+    },
+    {
+      "number": 13,
+      "content": "Without it, they didn't know how to steer. A massive, terrifying storm hit us, and we were blown backward for three days. They were scared they'd drown, but they still wouldn't untie me."
+    },
+    {
+      "number": 14,
+      "content": "On the fourth day, the storm got even worse."
+    },
+    {
+      "number": 15,
+      "content": "We were about to sink. After four days of being driven backward, my brothers finally realized God was judging them and they'd die if they didn't repent. So they came and untied me. My wrists were badly swollen, and my ankles were swollen and extremely painful."
+    },
+    {
+      "number": 16,
+      "content": "But I kept my eyes on God. I praised him all day long and never complained about my suffering."
+    },
+    {
+      "number": 17,
+      "content": "My father Lehi had tried to talk to them, and so had Ishmael's sons. But they threatened anyone who defended me. My parents were old and had suffered so much grief because of their children that they collapsed—they were confined to their sickbeds."
+    },
+    {
+      "number": 18,
+      "content": "Their grief and sorrow, combined with my brothers' wickedness, nearly killed them. They were so close to death—their gray heads almost in the grave, about to be buried at sea."
+    },
+    {
+      "number": 19,
+      "content": "Jacob and Joseph were still young and needed care. They were heartbroken watching our mother suffer. My wife begged them with tears and prayers. My children pleaded too. But nothing softened my brothers' hearts enough to free me."
+    },
+    {
+      "number": 20,
+      "content": "Only the threat of God's power destroying them could change their minds. When they saw they were about to be swallowed by the sea, they finally repented and untied me."
+    },
+    {
+      "number": 21,
+      "content": "Once they freed me, I grabbed the compass and it worked perfectly again. I prayed to the Lord, and immediately the winds stopped, the storm ended, and everything became perfectly calm."
+    },
+    {
+      "number": 22,
+      "content": "I steered the ship, and we sailed again toward the promised land."
+    },
+    {
+      "number": 23,
+      "content": "After sailing for many more days, we finally reached the promised land. We went ashore, set up our tents, and named it the promised land."
+    },
+    {
+      "number": 24,
+      "content": "We started farming right away, planting all the seeds we'd brought from Jerusalem. They grew incredibly well—we were blessed with an abundant harvest."
+    },
+    {
+      "number": 25,
+      "content": "As we explored the wilderness of this promised land, we found all kinds of animals in the forests: cattle, oxen, donkeys, horses, goats, wild goats, and many other wild animals we could use. We also found deposits of gold, silver, and copper."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Building the Ship",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "Setting Sail",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "text": "Rebellion at Sea",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "text": "The Storm",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 21,
+        "position": "before_verse",
+        "text": "Deliverance",
+        "level": 3,
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 23,
+        "position": "before_verse",
+        "text": "The Promised Land",
+        "level": 3,
+        "sortOrder": 6
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 21,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 23,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}
