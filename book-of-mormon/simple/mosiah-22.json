@@ -1,0 +1,130 @@
+{
+  "book": "Mosiah",
+  "chapter": 22,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Then Ammon and King Limhi talked with the people. They wanted to find a way to escape from being slaves. They called all the people together. They wanted to hear what the people thought about this."
+    },
+    {
+      "number": 2,
+      "content": "They could not find a way to escape from being slaves. Their only choice was to take their women, children, animals, and tents and go into the wilderness. The Lamanites had too many soldiers. The people of Limhi could not fight them to become free."
+    },
+    {
+      "number": 3,
+      "content": "Then Gideon went and stood before the king. He said to him: King, you have listened to my words many times before. That was when we were fighting with our brothers, the Lamanites."
+    },
+    {
+      "number": 4,
+      "content": "King, if I have been a good servant to you, if you have listened to my words before and they have helped you, then please listen to my words now. I will be your servant. I will help this people escape from being slaves."
+    },
+    {
+      "number": 5,
+      "content": "The king said he could speak. Gideon said to him:"
+    },
+    {
+      "number": 6,
+      "content": "Look at the back gate through the back wall. It's on the back side of the city. The Lamanite guards get drunk at night. So let's tell all our people to gather their animals. Then they can take them into the wilderness at night."
+    },
+    {
+      "number": 7,
+      "content": "I will do what you say. I will pay the last wine payment to the Lamanites. They will get drunk. Then we will go through the secret path on the left side of their camp. We'll go when they are drunk and asleep."
+    },
+    {
+      "number": 8,
+      "content": "This way we will leave with our women, children, and animals. We will go into the wilderness. We will go around the land of Shilom."
+    },
+    {
+      "number": 9,
+      "content": "The king listened to Gideon's words."
+    },
+    {
+      "number": 10,
+      "content": "King Limhi had his people gather their animals together. He sent the wine payment to the Lamanites. He also sent extra wine as a gift to them. They drank a lot of the wine that King Limhi sent them."
+    },
+    {
+      "number": 11,
+      "content": "King Limhi's people left at night into the wilderness. They took their animals with them. They went around the land of Shilom in the wilderness. Then they headed toward the land of Zarahemla. Ammon and his brothers led them."
+    },
+    {
+      "number": 12,
+      "content": "They had taken all their gold, silver, and valuable things that they could carry. They also took their food with them into the wilderness. They kept going on their journey."
+    },
+    {
+      "number": 13,
+      "content": "After many days in the wilderness, they came to the land of Zarahemla. They joined Mosiah's people. They became his subjects."
+    },
+    {
+      "number": 14,
+      "content": "Mosiah was happy to receive them. He also received their records. He received the records that the people of Limhi had found too."
+    },
+    {
+      "number": 15,
+      "content": "When the Lamanites found out that Limhi's people had left during the night, they sent an army into the wilderness. The army tried to catch them."
+    },
+    {
+      "number": 16,
+      "content": "After following them for two days, they could not find their tracks anymore. So they got lost in the wilderness."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Planning the Escape",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "text": "Gideon's Plan",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "The Escape at Night",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "text": "Safe in Zarahemla",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "sortOrder": 5
+      }
+    ]
+  }
+}
