@@ -1,0 +1,197 @@
+{
+  "book": "Mosiah",
+  "chapter": 20,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "There was a place in Shemlon. The daughters of the Lamanites came there to sing and dance. They came to have fun."
+    },
+    {
+      "number": 2,
+      "content": "One day, just a few of them came together to sing and dance."
+    },
+    {
+      "number": 3,
+      "content": "King Noah's priests were ashamed to go back to the city of Nephi. They were also afraid the people would kill them. So they did not go back to their wives and children."
+    },
+    {
+      "number": 4,
+      "content": "They stayed in the wilderness. They saw the daughters of the Lamanites. They hid and watched them."
+    },
+    {
+      "number": 5,
+      "content": "When only a few girls came to dance, the priests came out of hiding. They took the girls and carried them into the wilderness. They took twenty-four daughters of the Lamanites."
+    },
+    {
+      "number": 6,
+      "content": "The Lamanites found out their daughters were missing. They were angry with the people of Limhi. They thought Limhi's people had taken them."
+    },
+    {
+      "number": 7,
+      "content": "So they sent their armies. The king himself led his people. They went to the land of Nephi to destroy Limhi's people."
+    },
+    {
+      "number": 8,
+      "content": "Limhi saw them coming from the tower. He saw all their war preparations. So he gathered his people together. They waited for them in the fields and forests."
+    },
+    {
+      "number": 9,
+      "content": "When the Lamanites came, Limhi's people jumped out of their hiding places. They began to kill them."
+    },
+    {
+      "number": 10,
+      "content": "The battle was very hard. They fought like lions fighting for their food."
+    },
+    {
+      "number": 11,
+      "content": "Limhi's people began to push the Lamanites back. There were only half as many of them as the Lamanites. But they fought for their lives, their wives, and their children. They gave everything they had. They fought like dragons."
+    },
+    {
+      "number": 12,
+      "content": "They found the king of the Lamanites among the dead bodies. But he was not dead. He was hurt and left on the ground. His people had run away too fast to get him."
+    },
+    {
+      "number": 13,
+      "content": "They took him and wrapped up his wounds. They brought him to Limhi. They said: \"Here is the king of the Lamanites. He was hurt and fell among the dead. They left him behind. We brought him to you. Let us kill him.\""
+    },
+    {
+      "number": 14,
+      "content": "But Limhi said to them: \"Don't kill him. Bring him here so I can see him.\" They brought him. Limhi said to him: \"Why did you come to fight my people? My people have not broken the promise I made to you. So why did you break the promise you made to my people?\""
+    },
+    {
+      "number": 15,
+      "content": "The king said: \"I broke the promise because your people took away our daughters. I was angry. So I told my people to fight your people.\""
+    },
+    {
+      "number": 16,
+      "content": "Limhi had not heard about this. So he said: \"I will search among my people. Whoever did this will die.\" Then he ordered his people to be searched."
+    },
+    {
+      "number": 17,
+      "content": "Gideon heard about this. He was the king's captain. He went to the king and said: \"Please wait. Don't search our people. Don't blame them for this.\""
+    },
+    {
+      "number": 18,
+      "content": "\"Remember the priests of your father? Our people tried to destroy them. Aren't they in the wilderness? Didn't they steal the daughters of the Lamanites?\""
+    },
+    {
+      "number": 19,
+      "content": "\"Tell the king about this. Then he can tell his people. That will make them peaceful toward us. They are already getting ready to attack us again. There are only a few of us.\""
+    },
+    {
+      "number": 20,
+      "content": "\"They are coming with their huge armies. If the king doesn't make them peaceful toward us, we will die.\""
+    },
+    {
+      "number": 21,
+      "content": "\"Abinadi's words came true. He warned us about this. This happened because we did not listen to the Lord. We did not turn away from our sins.\""
+    },
+    {
+      "number": 22,
+      "content": "\"Let's make peace with the king. Let's keep our promise to him. It's better to be slaves than to die. Let's stop all this killing.\""
+    },
+    {
+      "number": 23,
+      "content": "Then Limhi told the king everything about his father. He told him about the priests who ran into the wilderness. He said the priests took their daughters."
+    },
+    {
+      "number": 24,
+      "content": "The king became peaceful toward Limhi's people. He said to them: \"Let's go meet my people without weapons. I promise you my people won't kill your people.\""
+    },
+    {
+      "number": 25,
+      "content": "They followed the king. They went without weapons to meet the Lamanites. They met the Lamanites. The king of the Lamanites bowed down before them. He begged his people to have mercy on Limhi's people."
+    },
+    {
+      "number": 26,
+      "content": "The Lamanites saw that Limhi's people had no weapons. They felt sorry for them. They became peaceful toward them. They went back to their own land with their king in peace."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "The Priests Take the Lamanite Daughters",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "The Lamanites Attack Limhi's People",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "text": "The Lamanite King Is Captured",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "text": "Gideon Explains What Really Happened",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 24,
+        "position": "before_verse",
+        "text": "Peace Returns",
+        "level": 3,
+        "sortOrder": 5
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 3,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 6
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "sortOrder": 7
+      },
+      {
+        "verseNumber": 23,
+        "position": "before_verse",
+        "sortOrder": 8
+      },
+      {
+        "verseNumber": 25,
+        "position": "before_verse",
+        "sortOrder": 9
+      }
+    ]
+  }
+}

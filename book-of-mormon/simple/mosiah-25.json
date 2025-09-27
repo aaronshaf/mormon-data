@@ -1,0 +1,186 @@
+{
+  "book": "Mosiah",
+  "chapter": 25,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "King Mosiah told all the people to gather together."
+    },
+    {
+      "number": 2,
+      "content": "There were not as many children of Nephi as there were people of Zarahemla. Zarahemla came from Mulek. Many people had come with Mulek to this land."
+    },
+    {
+      "number": 3,
+      "content": "Together, the people of Nephi and Zarahemla were still less than the Lamanites. They were not even half as many."
+    },
+    {
+      "number": 4,
+      "content": "All the people of Nephi came together. All the people of Zarahemla came too. They gathered in two groups."
+    },
+    {
+      "number": 5,
+      "content": "Then Mosiah read the records of Zeniff to his people. He read about everything from when they left Zarahemla until they came back."
+    },
+    {
+      "number": 6,
+      "content": "He also read about Alma and his brothers. He read about all their troubles from when they left Zarahemla until they came back."
+    },
+    {
+      "number": 7,
+      "content": "When Mosiah finished reading the records, the people who stayed in the land were amazed."
+    },
+    {
+      "number": 8,
+      "content": "They didn't know what to think. When they saw the people who had been set free from slavery, they were very happy."
+    },
+    {
+      "number": 9,
+      "content": "When they thought about their brothers killed by the Lamanites, they were sad. They cried many tears."
+    },
+    {
+      "number": 10,
+      "content": "When they thought about how good God had been, they thanked him. They were grateful he saved Alma and his brothers from the Lamanites."
+    },
+    {
+      "number": 11,
+      "content": "When they thought about the Lamanites, who were also their brothers, they felt pain. They worried about their souls because of their sins."
+    },
+    {
+      "number": 12,
+      "content": "The children of Amulon and his brothers didn't like what their fathers had done. Their fathers had married Lamanite women. These children didn't want to be named after their fathers anymore. So they took the name of Nephi. They wanted to be called children of Nephi and counted as Nephites."
+    },
+    {
+      "number": 13,
+      "content": "All the people of Zarahemla were counted as Nephites. This was because only descendants of Nephi could be kings."
+    },
+    {
+      "number": 14,
+      "content": "After Mosiah finished speaking and reading to the people, he wanted Alma to speak to them too."
+    },
+    {
+      "number": 15,
+      "content": "Alma spoke to them when they gathered in large groups. He went from one group to another. He taught them to repent and have faith in the Lord."
+    },
+    {
+      "number": 16,
+      "content": "He told the people of Limhi and his brothers to remember something. They had been set free from slavery. It was the Lord who set them free."
+    },
+    {
+      "number": 17,
+      "content": "After Alma taught the people many things, King Limhi wanted to be baptized. All his people wanted to be baptized too."
+    },
+    {
+      "number": 18,
+      "content": "So Alma went into the water and baptized them. He baptized them the same way he baptized his brothers at the Waters of Mormon. Everyone he baptized joined the Church of God. They joined because they believed Alma's words."
+    },
+    {
+      "number": 19,
+      "content": "King Mosiah allowed Alma to set up churches all over Zarahemla. He gave him power to choose priests and teachers for each church."
+    },
+    {
+      "number": 20,
+      "content": "They did this because there were too many people. One teacher couldn't lead them all. They couldn't all meet in one place to hear God's word."
+    },
+    {
+      "number": 21,
+      "content": "So they met in different groups called churches. Each church had priests and teachers. Each priest taught what Alma had told him."
+    },
+    {
+      "number": 22,
+      "content": "There were many churches, but they were all one Church of God. All the churches taught the same thing. They taught repentance and faith in God."
+    },
+    {
+      "number": 23,
+      "content": "There were seven churches in the land of Zarahemla. Anyone who wanted to take the name of Christ or God joined the churches of God."
+    },
+    {
+      "number": 24,
+      "content": "They were called the people of God. The Lord gave them his Spirit. They were blessed and did well in the land."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "King Mosiah Gathers the People",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "Reading the Records",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "text": "The People's Mixed Feelings",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "text": "Taking the Name of Nephi",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "text": "Alma Teaches and Baptizes",
+        "level": 3,
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "text": "Churches Are Organized",
+        "level": 3,
+        "sortOrder": 6
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "sortOrder": 6
+      },
+      {
+        "verseNumber": 22,
+        "position": "before_verse",
+        "sortOrder": 7
+      }
+    ]
+  }
+}

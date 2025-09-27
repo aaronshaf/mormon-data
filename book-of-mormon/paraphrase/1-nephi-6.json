@@ -1,0 +1,49 @@
+{
+  "book": "1 Nephi",
+  "chapter": 6,
+  "edition": "paraphrase",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, won't be listing my family tree here. In fact, I won't put it anywhere on these plates I'm writing. My father already recorded all that in his book, so there's no need for me to repeat it."
+    },
+    {
+      "number": 2,
+      "content": "It's enough to say we're descendants of Joseph."
+    },
+    {
+      "number": 3,
+      "content": "I'm not going to write out every detail of my father's life—there isn't room on these plates anyway. I need the space to write about God."
+    },
+    {
+      "number": 4,
+      "content": "My whole purpose is this: I want to convince people to come to the God of Abraham, Isaac, and Jacob—and find salvation."
+    },
+    {
+      "number": 5,
+      "content": "So I won't write things just to impress the world. I'll only write what pleases God and helps those who seek something beyond this world."
+    },
+    {
+      "number": 6,
+      "content": "I'll tell my children the same thing: Don't fill these plates with things that don't matter. Write only what will help people."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Why I Write What I Write",
+        "level": 3,
+        "sortOrder": 1
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      }
+    ]
+  }
+}

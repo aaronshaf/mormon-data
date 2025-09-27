@@ -1,0 +1,161 @@
+{
+  "book": "1 Nephi",
+  "chapter": 12,
+  "edition": "paraphrase",
+  "verses": [
+    {
+      "number": 1,
+      "content": "The angel said to me: \"Look! See your children and your brothers' children!\" I looked and saw the promised land filled with people—crowds as vast as sand on the seashore."
+    },
+    {
+      "number": 2,
+      "content": "I watched massive armies gathering to fight each other. I saw wars, heard rumors of more wars, and witnessed terrible slaughter among my people."
+    },
+    {
+      "number": 3,
+      "content": "Generation after generation passed before my eyes, all filled with wars and fighting. I saw so many cities rise up that I couldn't count them all."
+    },
+    {
+      "number": 4,
+      "content": "Then a thick darkness covered the promised land. Lightning flashed, thunder roared, and earthquakes shook everything. I heard terrifying sounds. The earth and rocks split apart. Mountains crumbled to pieces. Plains cracked open. Some cities sank into the ground. Others burned with fire. Many more collapsed from the violent shaking."
+    },
+    {
+      "number": 5,
+      "content": "After all this destruction, the darkness lifted. I saw crowds of people who had died in God's terrible judgment."
+    },
+    {
+      "number": 6,
+      "content": "Then the heavens opened, and I watched the Lamb of God come down from heaven. He appeared to the survivors and showed himself to them."
+    },
+    {
+      "number": 7,
+      "content": "I saw the Holy Spirit come upon twelve others. God ordained and chose them."
+    },
+    {
+      "number": 8,
+      "content": "The angel told me: \"These are the twelve disciples of the Lamb, chosen to serve your descendants.\""
+    },
+    {
+      "number": 9,
+      "content": "He continued: \"Remember the Lamb's twelve apostles? They will judge the twelve tribes of Israel. These twelve ministers you see will be judged by them, and they in turn will judge your descendants—because you are part of Israel's family.\""
+    },
+    {
+      "number": 10,
+      "content": "\"These twelve ministers you're looking at will judge your children. They will remain righteous forever. Their faith in the Lamb of God has made their robes white in his blood.\""
+    },
+    {
+      "number": 11,
+      "content": "The angel said: \"Look!\" I saw three generations living righteously. Their robes were as white as the Lamb of God's. The angel explained: \"Their faith in him made them pure through his blood.\""
+    },
+    {
+      "number": 12,
+      "content": "I also saw many from the fourth generation who lived righteously."
+    },
+    {
+      "number": 13,
+      "content": "Then I watched crowds gathering across the land."
+    },
+    {
+      "number": 14,
+      "content": "The angel said: \"Look at your descendants and your brothers' descendants!\""
+    },
+    {
+      "number": 15,
+      "content": "I looked and saw my descendants gathering in huge armies against my brothers' descendants. They were preparing for battle."
+    },
+    {
+      "number": 16,
+      "content": "The angel explained: \"That fountain of filthy water your father saw—the river he talked about—its depths represent hell itself.\""
+    },
+    {
+      "number": 17,
+      "content": "\"The dark mists are the devil's temptations. They blind people and harden their hearts, leading them down wide roads to destruction.\""
+    },
+    {
+      "number": 18,
+      "content": "\"That huge, fancy building your father saw represents human vanity and pride. A terrible gulf separates them—it's the word of God's eternal justice and Jesus Christ, the Lamb of God. The Holy Spirit has testified of him from the world's beginning until now, and will forever.\""
+    },
+    {
+      "number": 19,
+      "content": "While the angel spoke, I watched my brothers' descendants fight against mine. Just as the angel said, my descendants' pride and the devil's temptations gave my brothers' descendants the victory."
+    },
+    {
+      "number": 20,
+      "content": "I saw my brothers' descendants completely defeat mine. They spread across the land in great numbers."
+    },
+    {
+      "number": 21,
+      "content": "I watched them gather in crowds. Wars and rumors of wars continued among them for many generations."
+    },
+    {
+      "number": 22,
+      "content": "The angel told me: \"Watch—they will lose their faith.\""
+    },
+    {
+      "number": 23,
+      "content": "I saw that after losing their faith, they became a dark, repulsive, and filthy people, lazy and full of every kind of evil."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Visions of Future Generations",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "The Lamb Appears to the Survivors",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "text": "The Final War Between Brothers",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "sortOrder": 6
+      },
+      {
+        "verseNumber": 22,
+        "position": "before_verse",
+        "sortOrder": 7
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "book": "1 Nephi",
+  "chapter": 10,
+  "edition": "paraphrase",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, continue the story here on these plates. To tell it properly, I need to share what my father taught us and what happened with my brothers."
+    },
+    {
+      "number": 2,
+      "content": "After my father finished telling us about his dream and urging us to stay faithful, he spoke about the Jews:"
+    },
+    {
+      "number": 3,
+      "content": "Jerusalem would be destroyed. Many would be taken captive to Babylon. But in God's perfect timing, they would return. They would come back from captivity and live in their homeland again."
+    },
+    {
+      "number": 4,
+      "content": "Six hundred years after we left Jerusalem, God would raise up a prophet among the Jews—the Messiah, the Savior of the world."
+    },
+    {
+      "number": 5,
+      "content": "He talked about how many prophets had already testified about this Messiah, this Redeemer who would come."
+    },
+    {
+      "number": 6,
+      "content": "All humanity was lost in a fallen state. They would stay that way forever unless they relied on this Redeemer."
+    },
+    {
+      "number": 7,
+      "content": "He also spoke about a prophet who would come before the Messiah to prepare the way:"
+    },
+    {
+      "number": 8,
+      "content": "This prophet would cry out in the wilderness: 'Prepare the Lord's way! Make his paths straight! There stands among you someone you don't recognize. He is far greater than I am—I'm not even worthy to untie his sandals.' My father talked a lot about this."
+    },
+    {
+      "number": 9,
+      "content": "My father said this prophet would baptize at Bethabara, beyond the Jordan River. He would baptize with water—even baptize the Messiah himself."
+    },
+    {
+      "number": 10,
+      "content": "After baptizing the Messiah with water, he would witness and testify that he had baptized the Lamb of God, the one who would take away the world's sins."
+    },
+    {
+      "number": 11,
+      "content": "My father then spoke to my brothers about the gospel that would be preached to the Jews, and how the Jews would fall into unbelief. After they killed the Messiah, he would rise from the dead and reveal himself through the Holy Spirit to the Gentiles."
+    },
+    {
+      "number": 12,
+      "content": "My father spoke extensively about the Gentiles and the House of Israel. He compared them to an olive tree whose branches would be broken off and scattered across the entire earth."
+    },
+    {
+      "number": 13,
+      "content": "So we needed to be led together to the promised land, fulfilling the Lord's word that we would be scattered across the earth."
+    },
+    {
+      "number": 14,
+      "content": "After the House of Israel was scattered, they would be gathered again. After the Gentiles received the fullness of the gospel, the natural branches of the olive tree—the remnants of Israel—would be grafted back in. They would come to know their true Messiah, their Lord and Redeemer."
+    },
+    {
+      "number": 15,
+      "content": "This is how my father prophesied to my brothers. He said much more that I haven't written here—I recorded what was needed in my other book."
+    },
+    {
+      "number": 16,
+      "content": "All this happened while my father lived in a tent in the valley of Lemuel."
+    },
+    {
+      "number": 17,
+      "content": "After I heard everything my father said about his vision and all he spoke through the Holy Spirit's power—power he received through faith in the Son of God, the coming Messiah—I wanted to see, hear, and know these things myself. I wanted to experience them through the Holy Spirit, God's gift to everyone who earnestly seeks him, both in ancient times and when he reveals himself to humanity."
+    },
+    {
+      "number": 18,
+      "content": "He is the same yesterday, today, and forever. The way has been prepared since the world's foundation for those who repent and come to him."
+    },
+    {
+      "number": 19,
+      "content": "Those who search diligently will find. God's mysteries will unfold to them through the Holy Spirit's power—in these times just as in ancient times, in ancient times just as in times to come. The Lord's course is one eternal round."
+    },
+    {
+      "number": 20,
+      "content": "Remember this: you will be judged for everything you do."
+    },
+    {
+      "number": 21,
+      "content": "If you've chosen wickedness during your test of life, you'll be found unclean before God's judgment seat. Nothing unclean can live with God, so you'll be cast off forever."
+    },
+    {
+      "number": 22,
+      "content": "The Holy Spirit gives me authority to speak these things. I cannot deny them."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 2,
+        "position": "before_verse",
+        "text": "Lehi's Prophecy About the Jews",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "text": "The Messenger Who Prepares the Way",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "text": "The Scattering and Gathering",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "text": "Nephi Seeks His Own Witness",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 2,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}

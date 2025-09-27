@@ -1,0 +1,144 @@
+{
+  "book": "Mosiah",
+  "chapter": 28,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "After the sons of Mosiah had done all these things, they took a few people with them. They went back to their father, the king. They asked him if they could go to the land of Nephi. They wanted to preach what they had heard. They wanted to share God's word with their brothers, the Lamanites."
+    },
+    {
+      "number": 2,
+      "content": "They hoped to teach the Lamanites about the Lord their God. They wanted to show them that their fathers had done wrong. They hoped to heal their hate toward the Nephites. Then everyone could be happy in the Lord their God. They could be friends with each other. There would be no more fighting in all the land God had given them."
+    },
+    {
+      "number": 3,
+      "content": "They wanted everyone to hear about salvation. They couldn't stand the thought of any person dying forever. The thought of anyone suffering forever made them shake and tremble."
+    },
+    {
+      "number": 4,
+      "content": "The Spirit of the Lord worked on them like this because they had been the worst sinners. The Lord was kind and let them live. But they felt terrible in their souls because of their sins. They suffered a lot. They were afraid they would be cut off from God forever."
+    },
+    {
+      "number": 5,
+      "content": "They begged their father for many days to let them go to the land of Nephi."
+    },
+    {
+      "number": 6,
+      "content": "Then King Mosiah went and asked the Lord if he should let his sons go to the Lamanites to preach the word."
+    },
+    {
+      "number": 7,
+      "content": "The Lord said to Mosiah: \"Let them go. Many will believe their words. They will have eternal life. I will keep your sons safe from the Lamanites.\""
+    },
+    {
+      "number": 8,
+      "content": "So Mosiah let them go and do what they asked."
+    },
+    {
+      "number": 9,
+      "content": "They started their journey into the wilderness. They went to preach the word to the Lamanites. I will tell about what happened to them later."
+    },
+    {
+      "number": 10,
+      "content": "King Mosiah had no one to give the kingdom to. None of his sons would take the kingdom."
+    },
+    {
+      "number": 11,
+      "content": "So he took the records written on the brass plates. He also took the plates of Nephi. He took all the things he had kept safe as God commanded. He translated the records that were on the gold plates. These were the plates the people of Limhi had found. Limhi had given them to him."
+    },
+    {
+      "number": 12,
+      "content": "He did this because his people really wanted to know. They wanted to know about the people who had been destroyed."
+    },
+    {
+      "number": 13,
+      "content": "He translated them using two stones that were attached to the rims of a bow."
+    },
+    {
+      "number": 14,
+      "content": "These things had been prepared from the beginning. They were passed down from parents to children. They were for translating languages."
+    },
+    {
+      "number": 15,
+      "content": "The Lord kept and saved them. He wanted to show everyone who lived in the land the sins and terrible things his people had done."
+    },
+    {
+      "number": 16,
+      "content": "Anyone who has these things is called a seer, just like in old times."
+    },
+    {
+      "number": 17,
+      "content": "After Mosiah finished translating these records, they told about the people who were destroyed. They told their story from when they were destroyed back to when the great tower was built. That was when the Lord mixed up the people's language. They were scattered all over the earth. It even told about things back to when Adam was created."
+    },
+    {
+      "number": 18,
+      "content": "This story made the people of Mosiah very sad. They were filled with sorrow. But it also gave them much knowledge. This made them happy."
+    },
+    {
+      "number": 19,
+      "content": "This story will be written later. It's important that all people know about these things."
+    },
+    {
+      "number": 20,
+      "content": "After King Mosiah did these things, he took the brass plates and everything he had kept. He gave them to Alma, the son of Alma. He gave him all the records. He also gave him the tools for translating. He told him to keep and save them. He told him to write about the people too. He should pass them down to his children, just as they had been passed down since Lehi left Jerusalem."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "The Sons of Mosiah Ask to Preach",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "Mosiah Translates the Gold Plates",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "text": "The Records Tell of Ancient People",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}

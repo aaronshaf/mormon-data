@@ -1,0 +1,159 @@
+{
+  "book": "1 Nephi",
+  "chapter": 7,
+  "edition": "paraphrase",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, want you to know what happened after my father finished prophesying about our family's future. The Lord spoke to him again: \"Lehi, you shouldn't take your family into the wilderness alone. Your sons need to marry so they can have children in the promised land.\""
+    },
+    {
+      "number": 2,
+      "content": "So the Lord told my father that my brothers and I should go back to Jerusalem again—this time to bring Ishmael and his family into the wilderness with us."
+    },
+    {
+      "number": 3,
+      "content": "Once again, my brothers and I left for Jerusalem."
+    },
+    {
+      "number": 4,
+      "content": "We went to Ishmael's house. He welcomed us warmly, and we told him what the Lord had said."
+    },
+    {
+      "number": 5,
+      "content": "The Lord softened Ishmael's heart—and his whole family's too—so they packed up and came with us into the wilderness to my father's tent."
+    },
+    {
+      "number": 6,
+      "content": "But on the way, Laman and Lemuel started a rebellion. Two of Ishmael's daughters joined them, along with his two sons and their families. They turned against me, Sam, old Ishmael, his wife, and his three other daughters."
+    },
+    {
+      "number": 7,
+      "content": "During this rebellion, they decided they wanted to go back to Jerusalem."
+    },
+    {
+      "number": 8,
+      "content": "My heart ached because they were so stubborn. I spoke to Laman and Lemuel: \"You're my older brothers. Why are your hearts so hard and your minds so blind that you need me—your younger brother—to teach you and set an example?\""
+    },
+    {
+      "number": 9,
+      "content": "\"Why won't you listen to the Lord?\""
+    },
+    {
+      "number": 10,
+      "content": "\"Have you forgotten that you saw an angel?\""
+    },
+    {
+      "number": 11,
+      "content": "\"Have you forgotten the amazing things the Lord did for us? He saved us from Laban and helped us get the brass plates.\""
+    },
+    {
+      "number": 12,
+      "content": "\"Have you forgotten that the Lord can do anything for people who have faith in him? So let's trust him.\""
+    },
+    {
+      "number": 13,
+      "content": "\"If we stay faithful, we'll get the promised land. And someday you'll see that everything the Lord said about Jerusalem's destruction will come true—every word of it.\""
+    },
+    {
+      "number": 14,
+      "content": "\"The Spirit is about to stop working with the people there. They've rejected the prophets and thrown Jeremiah in prison. They tried to kill our father—that's why he had to flee.\""
+    },
+    {
+      "number": 15,
+      "content": "\"Listen to me: if you go back to Jerusalem, you'll die with them. Go ahead if that's what you want—but remember my warning. If you go back, you'll die. The Spirit is compelling me to tell you this.\""
+    },
+    {
+      "number": 16,
+      "content": "My brothers exploded with rage. They grabbed me and tied me up with cords. They planned to leave me in the wilderness for wild animals to kill."
+    },
+    {
+      "number": 17,
+      "content": "I prayed: \"Lord, I have faith in you. Please free me from my brothers. Give me the strength to break these ropes.\""
+    },
+    {
+      "number": 18,
+      "content": "As soon as I finished praying, the ropes fell off my hands and feet. I stood up and spoke to them again."
+    },
+    {
+      "number": 19,
+      "content": "They rushed at me again, furious. But one of Ishmael's daughters stepped in, along with her mother and one of Ishmael's sons. They pleaded with my brothers until their hearts softened and they stopped trying to kill me."
+    },
+    {
+      "number": 20,
+      "content": "Then my brothers felt terrible about what they'd done. They fell to their knees in front of me, begging me to forgive them."
+    },
+    {
+      "number": 21,
+      "content": "I forgave them immediately and completely. I urged them to pray to God for forgiveness too. They did, and afterward we continued our journey to my father's tent."
+    },
+    {
+      "number": 22,
+      "content": "When we all arrived—my brothers, me, and Ishmael's entire family—everyone thanked God. We offered sacrifices and burnt offerings to him."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "A Command to Find Wives",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "Rebellion in the Desert",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "text": "Bound and Set Free",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "text": "Forgiveness and Thanksgiving",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 22,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}

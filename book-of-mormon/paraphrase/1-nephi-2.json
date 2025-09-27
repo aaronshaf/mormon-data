@@ -1,0 +1,162 @@
+{
+  "book": "1 Nephi",
+  "chapter": 2,
+  "edition": "paraphrase",
+  "verses": [
+    {
+      "number": 1,
+      "content": "The Lord spoke to my father in a dream: \"Lehi, you're blessed. You've done what I asked—you've been faithful and warned these people about what's coming. Now they want to kill you.\""
+    },
+    {
+      "number": 2,
+      "content": "In that same dream, the Lord told my father to pack up his family and leave for the wilderness."
+    },
+    {
+      "number": 3,
+      "content": "My father obeyed. He did exactly what the Lord told him."
+    },
+    {
+      "number": 4,
+      "content": "He left everything behind—his house, his land, all his gold and silver, everything valuable he owned. He took only his family, some food, and tents, and headed into the wilderness."
+    },
+    {
+      "number": 5,
+      "content": "We traveled down near the shore of the Red Sea, staying close to its borders as we made our way through the wilderness. Our family was my mother Sariah, my older brothers Laman, Lemuel, and Sam, and me."
+    },
+    {
+      "number": 6,
+      "content": "After three days of traveling, we stopped and set up our tents in a valley beside a river."
+    },
+    {
+      "number": 7,
+      "content": "My father built an altar from stones and made an offering to the Lord. He thanked God for everything."
+    },
+    {
+      "number": 8,
+      "content": "He named the river Laman. It flowed right into the Red Sea, and our valley was near where the river met the sea."
+    },
+    {
+      "number": 9,
+      "content": "When my father saw the river flowing into the Red Sea, he turned to Laman: \"I wish you were like this river—always flowing toward what's right and good.\""
+    },
+    {
+      "number": 10,
+      "content": "Then he spoke to Lemuel: \"I wish you were like this valley—solid, steady, never wavering when it comes to following the Lord's commands.\""
+    },
+    {
+      "number": 11,
+      "content": "He said these things because Laman and Lemuel were stubborn. They complained constantly about our father. They called him a dreamer who'd dragged us away from Jerusalem, abandoning our inheritance, our wealth, everything—just to die in the wilderness. They said he was following crazy fantasies."
+    },
+    {
+      "number": 12,
+      "content": "Laman and Lemuel, the oldest sons, complained against our father because they didn't understand how God works."
+    },
+    {
+      "number": 13,
+      "content": "They refused to believe Jerusalem could be destroyed, even though the prophets had warned about it. They were just like the people back in Jerusalem who wanted to kill my father."
+    },
+    {
+      "number": 14,
+      "content": "My father spoke to them there in the valley of Lemuel with such spiritual power that they physically shook. His words left them speechless—they couldn't argue back. So they did what he told them."
+    },
+    {
+      "number": 15,
+      "content": "We lived in tents."
+    },
+    {
+      "number": 16,
+      "content": "I was very young then, though tall for my age. I desperately wanted to understand God's mysteries, so I prayed. The Lord visited me and softened my heart. I believed everything my father had said. I didn't rebel like my brothers."
+    },
+    {
+      "number": 17,
+      "content": "I told Sam what the Lord had shown me through the Holy Spirit, and he believed me."
+    },
+    {
+      "number": 18,
+      "content": "But Laman and Lemuel wouldn't listen. Their hearts were hard, and it broke mine. I prayed for them."
+    },
+    {
+      "number": 19,
+      "content": "The Lord spoke to me: \"Nephi, you're blessed because of your faith. You've searched for me with real humility.\""
+    },
+    {
+      "number": 20,
+      "content": "\"If you keep my commandments, you'll thrive. I'll lead you to a promised land—a place I've prepared just for you. It's the finest land anywhere.\""
+    },
+    {
+      "number": 21,
+      "content": "\"If your brothers rebel against you, they'll be cut off from my presence.\""
+    },
+    {
+      "number": 22,
+      "content": "\"As long as you follow my commandments, you'll lead and teach your brothers.\""
+    },
+    {
+      "number": 23,
+      "content": "\"When they rebel against me, I'll curse them severely. They won't have power over your descendants unless your descendants also rebel against me.\""
+    },
+    {
+      "number": 24,
+      "content": "\"And if your descendants do rebel, your brothers' descendants will become a painful reminder to bring them back to me.\""
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "God Warns Lehi to Flee",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "text": "Life in the Valley",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "text": "Nephi Seeks Understanding",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "text": "The Lord's Promise to Nephi",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 11,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 16,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "sortOrder": 5
+      }
+    ]
+  }
+}

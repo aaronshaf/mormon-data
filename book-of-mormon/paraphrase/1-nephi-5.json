@@ -1,0 +1,152 @@
+{
+  "book": "1 Nephi",
+  "chapter": 5,
+  "edition": "paraphrase",
+  "verses": [
+    {
+      "number": 1,
+      "content": "When we got back to our father in the wilderness, he was overjoyed. My mother, Sariah, was so relieved—she'd been mourning, thinking we were dead."
+    },
+    {
+      "number": 2,
+      "content": "She thought we'd died out there. She'd been angry with my father, calling him a dreamer: \"Look what you've done! You dragged us from our home, and now my sons are gone. We're all going to die in this wilderness.\""
+    },
+    {
+      "number": 3,
+      "content": "That's how my mother had been talking to my father."
+    },
+    {
+      "number": 4,
+      "content": "My father answered her: \"Yes, I am a dreamer. If I hadn't seen God's visions, I wouldn't have known his goodness. I would have stayed in Jerusalem and died with everyone else.\""
+    },
+    {
+      "number": 5,
+      "content": "\"But listen—I've been promised a new land, and that makes me happy. I know the Lord will save our sons from Laban and bring them back to us.\""
+    },
+    {
+      "number": 6,
+      "content": "That's how my father Lehi comforted my mother Sariah while we were traveling back to Jerusalem to get the Jewish records."
+    },
+    {
+      "number": 7,
+      "content": "When we finally returned to my father's tent, their joy overflowed. My mother was comforted."
+    },
+    {
+      "number": 8,
+      "content": "She said: \"Now I know for certain the Lord commanded my husband to flee into the wilderness. I know for certain the Lord protected my sons, saved them from Laban, and gave them the strength to do what he commanded.\" She kept talking like this."
+    },
+    {
+      "number": 9,
+      "content": "They were ecstatic. They offered sacrifices and burnt offerings to the Lord. They thanked the God of Israel."
+    },
+    {
+      "number": 10,
+      "content": "After giving thanks to the God of Israel, my father Lehi examined the brass plates from beginning to end."
+    },
+    {
+      "number": 11,
+      "content": "He found they contained the five books of Moses, telling about the creation of the world and about Adam and Eve, our first parents."
+    },
+    {
+      "number": 12,
+      "content": "There was also a history of the Jews from the beginning right up to when Zedekiah became king of Judah."
+    },
+    {
+      "number": 13,
+      "content": "The plates included prophecies from the holy prophets, from the beginning up to Zedekiah's reign, including many prophecies spoken by Jeremiah."
+    },
+    {
+      "number": 14,
+      "content": "My father Lehi discovered a family tree on the brass plates. He learned he was descended from Joseph—the same Joseph, son of Jacob, who was sold into Egypt. The Lord had preserved Joseph so he could save his father Jacob and their whole family from starving."
+    },
+    {
+      "number": 15,
+      "content": "That same God who preserved them also led them out of slavery in Egypt."
+    },
+    {
+      "number": 16,
+      "content": "That's how my father discovered his family history. Laban was also descended from Joseph—that's why his family had kept these records."
+    },
+    {
+      "number": 17,
+      "content": "When my father saw all this, the Spirit filled him. He began prophesying about his descendants:"
+    },
+    {
+      "number": 18,
+      "content": "\"These brass plates will reach every nation, tribe, language, and people who come from our family.\""
+    },
+    {
+      "number": 19,
+      "content": "He said these brass plates would never be destroyed. Time would never fade them. He prophesied many things about his descendants."
+    },
+    {
+      "number": 20,
+      "content": "My father and I had done everything the Lord commanded us."
+    },
+    {
+      "number": 21,
+      "content": "We got the records the Lord commanded us to get. When we studied them, we found they were valuable—incredibly valuable—because they would help us teach God's commandments to our children."
+    },
+    {
+      "number": 22,
+      "content": "The Lord was wise to have us carry them as we traveled through the wilderness to the promised land."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "A Mother's Relief",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "The Brass Plates Revealed",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "text": "Lehi's Prophecy",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 17,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "sortOrder": 6
+      }
+    ]
+  }
+}
