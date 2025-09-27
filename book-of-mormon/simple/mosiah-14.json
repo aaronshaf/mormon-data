@@ -1,0 +1,104 @@
+{
+  "book": "Mosiah",
+  "chapter": 14,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Isaiah also said: Who believed what we told them? Who has seen the Lord's power?"
+    },
+    {
+      "number": 2,
+      "content": "He will grow up before the Lord like a young plant. He is like a root growing in dry ground. He doesn't look special or handsome. When we see him, nothing about him makes us want him."
+    },
+    {
+      "number": 3,
+      "content": "People hate and reject him. He is a man full of sadness who knows pain. We turned away from him. People hated him. We thought he was worth nothing."
+    },
+    {
+      "number": 4,
+      "content": "But he carried our pain and sadness. We thought God was punishing him and making him suffer."
+    },
+    {
+      "number": 5,
+      "content": "But he was hurt because of our sins. He was crushed for the bad things we did. He was punished so we could have peace. His wounds made us better."
+    },
+    {
+      "number": 6,
+      "content": "We are all like sheep that wandered away. Each of us went our own way. But the Lord put all our sins on him."
+    },
+    {
+      "number": 7,
+      "content": "People hurt him and made him suffer. But he didn't say anything. He was like a lamb being killed. He was like a sheep being cut for wool. He stayed quiet."
+    },
+    {
+      "number": 8,
+      "content": "He was taken from prison and from court. Who can tell about his children? He was killed and taken from the earth. He was punished for my people's sins."
+    },
+    {
+      "number": 9,
+      "content": "He was buried with bad people. But a rich man took care of his body. He never did anything wrong. He never lied."
+    },
+    {
+      "number": 10,
+      "content": "But the Lord wanted to crush him and make him suffer. When he gives his life for sin, he will see his children. He will live longer. The Lord's plan will work through him."
+    },
+    {
+      "number": 11,
+      "content": "After his suffering, he will see good things and be happy. My good servant will save many people by what he knows. He will carry their sins."
+    },
+    {
+      "number": 12,
+      "content": "So I will give him a place with great people. He will share rewards with strong people. He gave his life to death. People counted him with sinners. He carried many people's sins. He prayed for the sinners."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Isaiah's Words About Jesus",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse", 
+        "text": "He Suffered for Our Sins",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "text": "He Stayed Quiet Through His Pain",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "God's Plan Will Work",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      }
+    ]
+  }
+}

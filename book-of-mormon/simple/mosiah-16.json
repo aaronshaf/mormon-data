@@ -1,0 +1,128 @@
+{
+  "book": "Mosiah",
+  "chapter": 16,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "After Abinadi said these words, he stretched out his hand. He said: \"The time will come when everyone will see God's salvation. Every nation and all people will see the same truth. They will admit that God's judgments are right.\""
+    },
+    {
+      "number": 2,
+      "content": "\"Then the bad people will be thrown out. They will cry and weep and grind their teeth. This happens because they did not listen to the Lord. So the Lord does not save them.\""
+    },
+    {
+      "number": 3,
+      "content": "\"They live by their bodies' desires and are evil. The devil has power over them. This is the same old snake that tricked our first parents. He caused them to fall. Because of that, all people became selfish and evil. They know good from bad, but they give themselves to the devil.\""
+    },
+    {
+      "number": 4,
+      "content": "\"So all people were lost. They would have been lost forever if God had not saved his people from their lost and fallen state.\""
+    },
+    {
+      "number": 5,
+      "content": "\"But remember this: If someone keeps living by their body's desires and keeps sinning against God, they stay in their fallen state. The devil has all power over them. It is as if there was no way to be saved. They are God's enemy. The devil is also God's enemy.\""
+    },
+    {
+      "number": 6,
+      "content": "\"If Christ had not come into the world, there could be no way to be saved. I speak of future things as if they already happened.\""
+    },
+    {
+      "number": 7,
+      "content": "\"If Christ had not come back from the dead or broken death's power, there could be no resurrection. The grave would win. Death would keep its sting.\""
+    },
+    {
+      "number": 8,
+      "content": "\"But there is a resurrection. So the grave does not win. Christ has taken away death's sting.\""
+    },
+    {
+      "number": 9,
+      "content": "\"He is the light and life of the world. His light never ends and can never be made dark. His life never ends, so there will be no more death.\""
+    },
+    {
+      "number": 10,
+      "content": "\"Our bodies that can die will become bodies that never die. Our bodies that can rot will become bodies that never rot. We will stand before God. He will judge us by what we have done, whether good or bad.\""
+    },
+    {
+      "number": 11,
+      "content": "\"If we did good things, we will come back to life forever and be happy. If we did bad things, we will come back to life forever and be punished. We will be given to the devil who controls us. That is what punishment means.\""
+    },
+    {
+      "number": 12,
+      "content": "\"They followed their own selfish wants and desires. They never called on the Lord while he offered mercy. He offered mercy to them, but they would not take it. They were warned about their sins but would not stop. They were told to turn from sin but would not.\""
+    },
+    {
+      "number": 13,
+      "content": "\"Shouldn't you shake with fear and turn from your sins? Remember that only through Christ can you be saved.\""
+    },
+    {
+      "number": 14,
+      "content": "\"So if you teach the law of Moses, also teach that it points to things that will come.\""
+    },
+    {
+      "number": 15,
+      "content": "\"Teach them that being saved comes through Christ the Lord. He is the Eternal Father. Amen.\""
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Everyone Will See God's Salvation",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "text": "People Are Lost Without God",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "text": "Christ Makes Resurrection Possible",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "The Final Judgment",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "text": "Turn From Sin Through Christ",
+        "level": 3,
+        "sortOrder": 5
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 4,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 6,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 4
+      }
+    ]
+  }
+}

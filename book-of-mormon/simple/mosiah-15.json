@@ -1,0 +1,219 @@
+{
+  "book": "Mosiah",
+  "chapter": 15,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "Abinadi said to them: I want you to understand that God himself will come down to earth. He will save his people."
+    },
+    {
+      "number": 2,
+      "content": "Because he will live in a human body, he will be called the Son of God. He will follow the Father's will. He will be both the Father and the Son."
+    },
+    {
+      "number": 3,
+      "content": "He is the Father because God's power created him. He is the Son because he has a human body. So he is both Father and Son."
+    },
+    {
+      "number": 4,
+      "content": "They are one God. He is the Eternal Father of heaven and earth."
+    },
+    {
+      "number": 5,
+      "content": "His human body will follow the Spirit. The Son will follow the Father. They are one God. He will be tempted but will not give in. He will let people make fun of him, beat him, throw him out, and reject him."
+    },
+    {
+      "number": 6,
+      "content": "After doing many great miracles for people, he will be led away. Isaiah said he would be like a quiet sheep being cut. He won't speak up."
+    },
+    {
+      "number": 7,
+      "content": "He will be led away, hung on a cross, and killed. His body will die. The Son's will becomes part of the Father's will."
+    },
+    {
+      "number": 8,
+      "content": "This is how God breaks death's power. He wins over death. He gives the Son power to help people."
+    },
+    {
+      "number": 9,
+      "content": "He went up to heaven. He is full of mercy and love for people. He stands between them and justice. He broke the power of death. He took their sins and wrongs on himself. He saved them and satisfied justice."
+    },
+    {
+      "number": 10,
+      "content": "Now I ask you: Who will be his children? When his soul pays for sin, he will see his children. What do you say? Who will be his children?"
+    },
+    {
+      "number": 11,
+      "content": "I tell you that everyone who has heard the prophets' words will be his children. All the holy prophets taught about the Lord coming. Everyone who listened to them and believed the Lord would save his people will be his children. Everyone who looked forward to having their sins forgiven will be his children. These are the people who will live in God's kingdom."
+    },
+    {
+      "number": 12,
+      "content": "He carried their sins. He died for them to save them from their wrongs. Aren't they his children?"
+    },
+    {
+      "number": 13,
+      "content": "All the prophets who spoke God's message are his children too. I mean all the holy prophets since the world began who didn't sin. I say they are his children."
+    },
+    {
+      "number": 14,
+      "content": "These are the ones who told about peace. They brought good news. They told about being saved. They said to Zion: \"Your God rules!\""
+    },
+    {
+      "number": 15,
+      "content": "How beautiful their feet were on the mountains!"
+    },
+    {
+      "number": 16,
+      "content": "Again: How beautiful on the mountains are the feet of those still telling about peace!"
+    },
+    {
+      "number": 17,
+      "content": "Again: How beautiful on the mountains are the feet of those who will tell about peace from now on and forever!"
+    },
+    {
+      "number": 18,
+      "content": "I tell you, this is not all. How beautiful on the mountains are the feet of the one who brings good news and starts peace! That's the Lord who saved his people. He gave salvation to his people."
+    },
+    {
+      "number": 19,
+      "content": "If he hadn't saved his people, everyone would have died. This salvation was planned before the world was made."
+    },
+    {
+      "number": 20,
+      "content": "Death's power will be broken. The Son rules and has power over the dead. So he will bring the dead back to life."
+    },
+    {
+      "number": 21,
+      "content": "There will be a resurrection. It's called the first resurrection. People who have lived, are living now, and will live until Christ comes back will be in it. Christ is what he will be called."
+    },
+    {
+      "number": 22,
+      "content": "All the prophets will come back to life in the first resurrection. So will everyone who believed their words. Everyone who kept God's commands will be in the first resurrection."
+    },
+    {
+      "number": 23,
+      "content": "They are raised to live with God who saved them. They have eternal life through Christ. He broke the power of death."
+    },
+    {
+      "number": 24,
+      "content": "Some people died before Christ came. They didn't know about salvation. The Lord brings them back too. They are part of the first resurrection. They have eternal life. The Lord saved them."
+    },
+    {
+      "number": 25,
+      "content": "Little children also have eternal life."
+    },
+    {
+      "number": 26,
+      "content": "But be afraid and shake before God. You should shake. The Lord doesn't save people who fight against him and die in their sins. He doesn't save anyone who has died in sin since the world began. He doesn't save those who knew God's commands but chose to fight against him. They won't be in the first resurrection."
+    },
+    {
+      "number": 27,
+      "content": "Shouldn't you shake? These people can't be saved. The Lord hasn't saved them. The Lord can't save them. He can't go against himself. He can't stop justice when it demands payment."
+    },
+    {
+      "number": 28,
+      "content": "Now I tell you that the time will come when the Lord's salvation will be told to every nation, family, language, and people."
+    },
+    {
+      "number": 29,
+      "content": "Lord, your guards will shout! They will sing together. They will see clearly when the Lord brings Zion back."
+    },
+    {
+      "number": 30,
+      "content": "Empty places of Jerusalem, be happy! Sing together! The Lord has comforted his people. He has saved Jerusalem."
+    },
+    {
+      "number": 31,
+      "content": "The Lord has shown his holy power to all nations. Everyone on earth will see our God's salvation."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Jesus Is Both Father and Son",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse", 
+        "text": "Who Will Be His Children?",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "text": "Beautiful Are the Feet",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "text": "The First Resurrection",
+        "level": 3,
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 26,
+        "position": "before_verse",
+        "text": "Warning to the Wicked",
+        "level": 3,
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 28,
+        "position": "before_verse",
+        "text": "Salvation for All Nations",
+        "level": 3,
+        "sortOrder": 6
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 8,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 12,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 18,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 22,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 24,
+        "position": "before_verse",
+        "sortOrder": 6
+      },
+      {
+        "verseNumber": 27,
+        "position": "before_verse",
+        "sortOrder": 7
+      },
+      {
+        "verseNumber": 30,
+        "position": "before_verse",
+        "sortOrder": 8
+      }
+    ]
+  }
+}
