@@ -1,0 +1,139 @@
+{
+  "book": "Mosiah",
+  "chapter": 17,
+  "edition": "simplified",
+  "verses": [
+    {
+      "number": 1,
+      "content": "After Abinadi finished speaking, the king told the priests to take him and kill him."
+    },
+    {
+      "number": 2,
+      "content": "But one of them was named Alma. He was related to Nephi. He was a young man. He believed what Abinadi had said. He knew about the bad things Abinadi had told them. So he asked the king not to be angry with Abinadi. He asked the king to let Abinadi leave in peace."
+    },
+    {
+      "number": 3,
+      "content": "But the king became even more angry. He made Alma leave their group. He sent his servants to go after Alma to kill him."
+    },
+    {
+      "number": 4,
+      "content": "But Alma ran away from them and hid. They could not find him. He stayed hidden for many days. During that time, he wrote down all the words Abinadi had said."
+    },
+    {
+      "number": 5,
+      "content": "The king told his guards to surround Abinadi and take him. They tied him up and put him in prison."
+    },
+    {
+      "number": 6,
+      "content": "After three days, the king talked with his priests. Then he had Abinadi brought to him again."
+    },
+    {
+      "number": 7,
+      "content": "The king said to him: \"Abinadi, we have found something to accuse you of. You deserve to die.\""
+    },
+    {
+      "number": 8,
+      "content": "\"You said that God himself would come down to live with people. For this reason you will be killed. Unless you take back all the bad things you said about me and my people.\""
+    },
+    {
+      "number": 9,
+      "content": "Abinadi said to him: \"I will not take back what I said about your people. My words are true. So you can know they are true, I have let myself be caught by you.\""
+    },
+    {
+      "number": 10,
+      "content": "\"I will die before I take back my words. They will stand as proof against you. If you kill me, you will kill an innocent man. This will also be proof against you on the last day.\""
+    },
+    {
+      "number": 11,
+      "content": "King Noah was about to let him go. He was afraid of Abinadi's words. He was afraid God would punish him."
+    },
+    {
+      "number": 12,
+      "content": "But the priests spoke out against Abinadi. They accused him, saying: \"He has insulted the king.\" So the king became angry with Abinadi. He gave him up to be killed."
+    },
+    {
+      "number": 13,
+      "content": "They took him and tied him up. They burned him to death with bundles of sticks."
+    },
+    {
+      "number": 14,
+      "content": "When the flames began to burn him, he cried out to them:"
+    },
+    {
+      "number": 15,
+      "content": "\"Just as you have done to me, your children will cause many people to suffer the same way. They will burn people to death with fire. This will happen because those people believe that the Lord their God will save them.\""
+    },
+    {
+      "number": 16,
+      "content": "\"You will get all kinds of diseases because of your sins.\""
+    },
+    {
+      "number": 17,
+      "content": "\"You will be attacked from all sides. You will be chased and scattered everywhere. Just like wild sheep are chased by wild animals.\""
+    },
+    {
+      "number": 18,
+      "content": "\"On that day you will be hunted. Your enemies will catch you. Then you will suffer like I am suffering. You will die by fire.\""
+    },
+    {
+      "number": 19,
+      "content": "\"This is how God punishes those who destroy his people. O God, receive my soul.\""
+    },
+    {
+      "number": 20,
+      "content": "After Abinadi said these words, he fell down. He had died by fire. He was killed because he would not deny God's commandments. He proved his words were true by dying for them."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Alma Believes Abinadi",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "text": "The King Questions Abinadi",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "text": "Abinadi's Final Words",
+        "level": 3,
+        "sortOrder": 3
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 13,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 20,
+        "position": "before_verse",
+        "sortOrder": 5
+      }
+    ]
+  }
+}
