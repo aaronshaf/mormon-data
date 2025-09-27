@@ -1,0 +1,200 @@
+{
+  "book": "1 Nephi",
+  "chapter": 3,
+  "edition": "paraphrase",
+  "verses": [
+    {
+      "number": 1,
+      "content": "I, Nephi, came back from talking with the Lord and went to my father's tent."
+    },
+    {
+      "number": 2,
+      "content": "He said to me: \"I had a dream. The Lord told me that you and your brothers have to go back to Jerusalem.\""
+    },
+    {
+      "number": 3,
+      "content": "\"Laban has the Jewish records and our family history. They're engraved on brass plates.\""
+    },
+    {
+      "number": 4,
+      "content": "\"The Lord wants you and your brothers to go to Laban's house, get the records, and bring them back here to the wilderness.\""
+    },
+    {
+      "number": 5,
+      "content": "\"Your brothers are complaining that this is too hard. But I'm not the one asking—this comes from the Lord.\""
+    },
+    {
+      "number": 6,
+      "content": "\"Go, my son. The Lord will bless you because you don't complain.\""
+    },
+    {
+      "number": 7,
+      "content": "I told my father: \"I'll go and do what the Lord commands. I know the Lord never asks us to do something without giving us a way to accomplish it.\""
+    },
+    {
+      "number": 8,
+      "content": "When my father heard this, he was overjoyed. He knew the Lord had blessed me."
+    },
+    {
+      "number": 9,
+      "content": "My brothers and I packed our tents and headed toward Jerusalem."
+    },
+    {
+      "number": 10,
+      "content": "When we reached Jerusalem, we talked things over."
+    },
+    {
+      "number": 11,
+      "content": "We cast lots to see who would go to Laban's house. The lot fell to Laman. He went to Laban's house and talked with him while Laban sat there."
+    },
+    {
+      "number": 12,
+      "content": "He asked Laban for the brass plates that contained our family history."
+    },
+    {
+      "number": 13,
+      "content": "Laban got angry and threw him out, saying: \"You're a thief! I'll kill you!\" He refused to give us the records."
+    },
+    {
+      "number": 14,
+      "content": "Laman ran out and told us what happened. We were crushed. My brothers wanted to go back to our father in the wilderness."
+    },
+    {
+      "number": 15,
+      "content": "But I said: \"As surely as the Lord lives and we live, we're not going back to our father until we've done what the Lord commanded.\""
+    },
+    {
+      "number": 16,
+      "content": "\"Let's be faithful to the Lord's commands. Let's go get our father's inheritance—he left gold, silver, and all kinds of wealth. He left it all because the Lord told him to.\""
+    },
+    {
+      "number": 17,
+      "content": "\"He knew Jerusalem would be destroyed because of the people's wickedness.\""
+    },
+    {
+      "number": 18,
+      "content": "\"They rejected the prophets. If our father stayed there after God told him to leave, he would die too. He had to flee.\""
+    },
+    {
+      "number": 19,
+      "content": "\"It's God's wisdom that we get these records. We need to preserve our language for our children.\""
+    },
+    {
+      "number": 20,
+      "content": "\"We also need to preserve the words of all the holy prophets—everything God has revealed from the beginning of time until now.\""
+    },
+    {
+      "number": 21,
+      "content": "This is how I convinced my brothers to keep God's commandments faithfully."
+    },
+    {
+      "number": 22,
+      "content": "We went to our family property and gathered all our gold, silver, and valuable things."
+    },
+    {
+      "number": 23,
+      "content": "After collecting everything, we went back up to Laban's house."
+    },
+    {
+      "number": 24,
+      "content": "We went in and asked him to trade the brass plates for our gold, silver, and valuables."
+    },
+    {
+      "number": 25,
+      "content": "When Laban saw how much wealth we had, he wanted it so badly that he threw us out and sent his servants to kill us and take our property."
+    },
+    {
+      "number": 26,
+      "content": "We ran from Laban's servants. We had to abandon everything, and Laban took it all."
+    },
+    {
+      "number": 27,
+      "content": "We escaped into the wilderness. The servants couldn't catch us, and we hid in a cave."
+    },
+    {
+      "number": 28,
+      "content": "Laman was furious with me and our father. So was Lemuel—he always took Laman's side. They said harsh things to us younger brothers and beat us with a rod."
+    },
+    {
+      "number": 29,
+      "content": "While they were beating us, an angel of the Lord appeared and stood before them. He said: \"Why are you beating your younger brother with a rod? Don't you know the Lord has chosen him to lead you because of your sins? Go back to Jerusalem. The Lord will deliver Laban to you.\""
+    },
+    {
+      "number": 30,
+      "content": "Then the angel left."
+    },
+    {
+      "number": 31,
+      "content": "After the angel was gone, Laman and Lemuel started complaining again: \"How can the Lord deliver Laban to us? He's powerful. He commands fifty men—he could kill fifty. So he could easily kill us.\""
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "The Command to Get the Brass Plates",
+        "level": 3,
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 10,
+        "position": "before_verse",
+        "text": "The First Attempt",
+        "level": 3,
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 15,
+        "position": "before_verse",
+        "text": "The Second Attempt with Gold",
+        "level": 3,
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 28,
+        "position": "before_verse",
+        "text": "An Angel Intervenes",
+        "level": 3,
+        "sortOrder": 4
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 7,
+        "position": "before_verse",
+        "sortOrder": 1
+      },
+      {
+        "verseNumber": 9,
+        "position": "before_verse",
+        "sortOrder": 2
+      },
+      {
+        "verseNumber": 14,
+        "position": "before_verse",
+        "sortOrder": 3
+      },
+      {
+        "verseNumber": 19,
+        "position": "before_verse",
+        "sortOrder": 4
+      },
+      {
+        "verseNumber": 22,
+        "position": "before_verse",
+        "sortOrder": 5
+      },
+      {
+        "verseNumber": 27,
+        "position": "before_verse",
+        "sortOrder": 6
+      },
+      {
+        "verseNumber": 31,
+        "position": "before_verse",
+        "sortOrder": 7
+      }
+    ]
+  }
+}
