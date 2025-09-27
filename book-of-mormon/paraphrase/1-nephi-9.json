@@ -1,0 +1,49 @@
+{
+  "book": "1 Nephi",
+  "chapter": 9,
+  "edition": "paraphrase",
+  "verses": [
+    {
+      "number": 1,
+      "content": "My father saw, heard, and spoke about all these things while living in a tent in the valley of Lemuel. There's so much more he experienced, but I can't write it all on these plates."
+    },
+    {
+      "number": 2,
+      "content": "Let me explain about these plates I'm writing on. These aren't the ones where I'm recording our complete history. I've named those other plates after myself—the plates of Nephi. These plates I'm writing on now are also called the plates of Nephi."
+    },
+    {
+      "number": 3,
+      "content": "The Lord commanded me to make this special set of plates to record the spiritual experiences of my people."
+    },
+    {
+      "number": 4,
+      "content": "The other plates tell about our kings, wars, and conflicts. These plates focus mostly on spiritual matters, while those focus mostly on our rulers and battles."
+    },
+    {
+      "number": 5,
+      "content": "The Lord told me to make these plates for his own wise purpose. I don't know what that purpose is."
+    },
+    {
+      "number": 6,
+      "content": "But the Lord knows everything from beginning to end. He always has a way to accomplish his work among people. He has all the power he needs to keep his promises. That's just how it is. Amen."
+    }
+  ],
+  "paragraphing": {
+    "headings": [
+      {
+        "verseNumber": 1,
+        "position": "before_verse",
+        "text": "Two Sets of Plates",
+        "level": 3,
+        "sortOrder": 1
+      }
+    ],
+    "paragraphBreaks": [
+      {
+        "verseNumber": 5,
+        "position": "before_verse",
+        "sortOrder": 1
+      }
+    ]
+  }
+}
